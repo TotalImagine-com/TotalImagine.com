@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>20190723 - Where is Music</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="where-is-music">Where is Music?</h1>
+<p>Original Draft Date: 2019-07-23<br>
+Original Publish Date: N/A<br>
+Last Update Date: 2022-08-21</p>
+<!--Cover Image: Studio One interface, or a pure composition staff?-->
+<!--What's the purpose of this article, and what meaningful information does it convey?-->
+<!--The Du Fu's poem part quote formatting has issue on the website-->
+<p><strong>Background</strong></p>
+<p>Today while I was listening to Jay Chou's music on Youtube, I came across a song named <strong>Princess Syndrome</strong>. It shocked me how similar this felt like dealing with someone who's everything you expect, talented and beautiful, yet so delicate and sensitive and biased in her way of pursuing life. At first I thought watching <strong>MV</strong> really felt different from <em>just listening to the song</em> - the visuals, the images, the impressions - it sort of completely &quot;ruined&quot; the way how I would had imagined the <strong>meaning of the song</strong>. Then I realized this was exactly like <em>reading a literature</em>, <em>hanging out with a girl</em>, or <em>interpreting meaning of someone else's words</em> - it was this sense of <strong>&quot;breaking the imagination&quot;</strong> through seeing a broader truth that enabled us to see what the author <strong>originally intended to convey</strong>, rather than our <strong>own vague feelings</strong>. This is less of an respect, but more of <em>listening to the truth</em> and <em>seeing the reality</em>.</p>
+<p>I personally don't listen to pop music much. I tend to interpret it, and it tends to arise emotional response in me. I don't like becoming biased or emotional. I use music when I need inspiration for my creative work. I avoid listening to music when I am quietly studying. Maybe I was wrong. <em>You can always learn</em>, you just need to know where to look, and <strong>getting closer to reality</strong> automatically conveys a sense of truth the very <strong>information</strong> itself contains. That's why in order to learn and develop <strong>our own style</strong> we cannot rely on studying <strong>stylized contents</strong> - <em>that way we will never know where we are going</em> and <em>always get lost in all the complexity others bring to us</em>.</p>
+<p>Getting to <strong>basics</strong> is hard, but I want to create my own music.</p>
+<p><strong>Justification</strong></p>
+<p>So what's new and special about this article? What special and <strong>specific information</strong> does it convey?</p>
+<p>My best friend Muhriz Ting from secondary high today argued with me <em>learning from Wikipedia doesn't teach us anything real</em> - except it creates a sense of fake feeling as if we know a lot more after reading the article. I would argue that is indeed the case, but only if you <em>don't remember anything from it</em>, or you don't <em>dig any deeper</em> and don't <em>build any connection</em> to the <strong>information</strong> it contains - i.e. <strong>forming your own knowledge and opinions</strong>. <strong>Opinions</strong> matters - but only if it's your <strong>very own, very original</strong>. I actually learn from dictionary sometimes - directly by reading it one item at a time, randomly - not just to learn the vocabulary, but also the <strong>meaning</strong>, <strong>context</strong> and maybe the <strong>story</strong> it conveys (How much I wish I could just keep reading like that!). I think my friend and colleague <strong>Jerry</strong> puts this very well: he once told me each poem from <em>Three Hundred Tang Poems</em> took him more than <strong>30 minutes</strong> to read. It took me around <em>40 minutes</em> to <strong>read</strong>, <strong>comprehend</strong>, <strong>write notes</strong> and finally <strong>memorize</strong> Du Fu's poem <em>Strolling along the Riverside Enjoying Flowers (5)</em> (and I forgot it already when I wrote this article and took me more than 20 minutes to find the title) - and it's only <em>28</em> (Chinese) characters in length. I used to wonder how come it worth many people's many years of effort to study <em>one novel</em> - Cao Xueqin's <em>Dream of the Red Chamber</em> - and give this study a name as <strong>Redology</strong>. I used to laugh at this idea and I still do, but nowadays I am deeply impressed.</p>
+<blockquote>
+<p>By the Huangshi pagoda the river flows east;
+The languishing charm of spring prevails in the breeze,
+A cluster of ownerless peach trees bloom in luxuriant splendor;
+Which are more lovely, the red flowers or the pink?
+<em>Strolling along the Riverside Enjoying Flowers (5), Du Fu, Translated by Wen Shu, Wang Jin Xi, Deng Yan Chang</em></p>
+</blockquote>
+<p>That argument about <em>how do we learn from our friends around us</em> originates from the idea that, as social media develops, we are drawn more to news and information that we are <strong>interested in</strong>, and thus we become more ignorant about things we are <strong>less familiar with</strong>. To conclude, I think the issue is <em>not</em> that we are presented (by computer algorithm, or by people) with <strong>many many similar ideas</strong>, but rather how we <strong>digest</strong> it - do we <strong>spend time</strong> disgesting it at all, or do we just <strong>read through it</strong> and pretend we learn anything? Do we care finding out the <strong>original source</strong> of news or ideas, or do we rely on <strong>second-hand</strong> sources to teach us what have happened? How many people will actually spend time <strong>writing</strong> their own understanding after reading something, or is it <em>too difficult to think on our own</em> that we tend to <strong>read</strong>, <strong>filter</strong>, and <strong>let it go</strong> - or maybe give a thumb up to show our <strong>effort</strong>👍?</p>
+<p><strong>About Music</strong></p>
+<p><strong>Dancing</strong> is the coolest thing one can do with his <strong>body</strong>, and <strong>singing</strong> is the most beautiful thing one can do with her <strong>voice</strong>. Lots of people nowadays study machine learning because they feel it's the trend, it's popular, it sounds cool, it makes money, or it's the future (and I guess this kind of learners don't go far in this path - but hey does it matter how people get started?). I <strong>admire and envy</strong> those who actually have <strong>goals</strong> in their life - to me I never know the <strong>one single thing</strong> I &quot;actually want&quot;. <em>I always want too much, and I don't have a goal in my life</em>. I first started learning about <strong>artificial intelligence</strong> with the help of Michael Negnevitsky's <em>Artificial Intelligence: A Guide to Intelligent Systems</em>, and I first started writing my own chatbot <strong>Airi</strong> in <strong>C</strong>. I didn't even know <strong>Python</strong> at that time.</p>
+<p>I tried to learn guitar briefly during middle school and didn't pursue that path because I found <strong>standing out against rules</strong> more easily attracted girl's attention. It might sounds impractical for someone not even proficient playing any instruments, but I <em>want to write my own song</em>. (So what?) I believe even the most <strong>utilitarian people</strong> begin with <strong>curiosity</strong>. I want to write songs for my favorite girl, I also want to finally be able to <strong>appreciate music</strong>.</p>
+
+</body>
+</html>

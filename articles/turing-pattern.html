@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>20220820</title>
+<title>Turing Pattern</title>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
 <style>
@@ -365,33 +365,17 @@ code {
           : 'default'
     });
   </script>
-<h1 id="a-refurbished-website-and-public-content-posting-scheme-wip">A Refurbished Website and Public Content Posting Scheme (WIP)</h1>
-<p>Original Draft Date: 2022-08-20<br>
-Original Publish Date: 2022-08-20<br>
-Last Update Date: 2022-08-20</p>
-<blockquote>
-<p>From this moment on, my ink will only be written on things that's worthwhile - arts and creations, and on things that's out of necessity: communication.</p>
-</blockquote>
-<p>Posting on social media is dangerous and harmful. It hurts not just the yongsters through comparing and peer pressure, but also hurts the authors because of all the delicate feelings - even <a href="https://www.cbsnews.com/news/tom-holland-social-media-mental-health-spider-man/">Tom Holland quits social media due to mental health concerns</a>. I will not argue how bad social media might have been, but in this post I will briefly share from a technical point of view how I ended up with building the website as you see now.</p>
-<p>The direct inpsiration for all of this, ironically, is an instant inspirational</p>
-<h1 id="development-history-of-personal-websites">Development History of Personal Websites</h1>
-<p>CloudBook</p>
-<p>希亘部落</p>
-<p>Adobe Portfolio</p>
-<p>Templated Charles Zhang totalimagine.com</p>
-<p>Redream subsite - tiddly wiki.</p>
-<p>Diverse sources: WeChat, Instgram, Pininterest, Steam portfolio and Artstation.</p>
-<h1 id="actual-demands">Actual Demands</h1>
-<p>Some basic demands</p>
-<h1 id="the-final-iteration-so-far">The Final Iteration (So-far)</h1>
-<p>New simple single-ended Github static pages.</p>
-<h1 id="building-process">Building Process</h1>
-<p>Raw data</p>
-<p>Front-end design</p>
-<h1 id="some-ground-rules">Some Ground Rules</h1>
-<ol>
-<li>Articles are dated and updated; So there is minimal noise.</li>
-</ol>
+<h1 id="turing-pattern">Turing Pattern</h1>
+<p>Original Draft Date: Ca. 2017-2018<br>
+Original Publish Date: N/A<br>
+Last Update Date: 2022-08-21</p>
+<p>My first attempt to <strong>computationally generate graphical entities</strong> was using <strong>UDK</strong> for generating <strong>Minecraft scene</strong> back in <em>2013</em> while I was still at ICT - that was an untroubled time when all you needed to do was to study, to play games (or for me sometimes it's learning <strong>Maya</strong>), and to watch Harry Potter - what a time! Living was cheap, and the food provided at the school tasted pretty good to me.</p>
+<p><strong>Minecraft</strong> turned out to be quite elaborate work with <strong>multiple passes of filtering</strong> for scene generation and not very efficient to generate using <strong>StaticMesh</strong>es in UDK during runtime. Or maybe I simply wasn't adept enough to handle it efficiently (well to be honest I would hesitate to try that again even with today's <strong>Unreal Engine 4</strong>, rather it seems more suitable to implement it on <em>low-level graphics directly</em> with custom program).</p>
+<p>I remember the first pass was using <strong>noise</strong> to generate a <strong>base distribution</strong>, then gradually applying filters in order to achieve various effects. Even today that still sounds like a very impressive idea and I really enjoys the game, especially the VR version - give a man enough toy blocks and see what he can do! A similar idea is used in newest release of <strong>ZBrush 2019</strong>, where people can use <strong>filters</strong> to achieve <strong>stylized 2D rendering effects</strong> by operating directly on various render passes.</p>
+<p><strong>Turing Pattern</strong>, or more specifically here what  is called <strong>Cyclic Symmetric Turing Pattern</strong> - which means when looking closely the patterns actually repeats itself in a cyclic fashion - is a <strong>simulation based rendering</strong>. It starts with various seeds, with specialized roles called <strong>activators</strong> and <strong>inhibitors</strong>. With clever tweak of the parameters the original author (<a href="http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf">link</a>) was able to generate <em>organism-like textures</em> with varying depth on completely 2D images. Don't quote me on the mechanism of this - even after reading Turing's original paper on this idea (<a href="http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf">The Chemical Basis of Morphogenesis</a>) I still totally don't understand why it can do this. I first saw this in <em>2013/2014</em>, and tried to implement the paper using <strong>Processing 3</strong>, but failed due to my <em>limited practical programming skills</em> and lack of <em>understanding of basic mathematical concepts</em> and related readings at that time. Even though I found a blog talking in detail about the implementation (<a href="https://softologyblog.wordpress.com/2011/07/05/multi-scale-turing-patterns/">Softology's Blog - Multi-Scale Turing Patterns</a>) and found example <strong>JavaScript</strong> apps that did that online, I failed to implement my own Processing program as early as the second stage.</p>
+<p>Then later at <em>2017/2018</em> while I was developing <strong>MULTITUDE</strong> and experimenting with <strong>CUDA</strong> based GPU acceleration, I attempted this again - this time with more care and patience, and successfully implemented my own version of Cyclic Symmetric Turing Pattern Generator with GPU acceleration support. Well it turns out it's not too much fater than pure CPU based algorithm. Much can still be improved, but that's some progress for now.</p>
+<p>I still haven't figured out all the <strong>intricate logics and behaviors</strong> of this program, and I think I will attempt it again when I find time next time - maybe try it with math😏.</p>
+<p>So the goal for next time: talk more about the <em>foundations</em> of this thing, try to gain more insight into the subject, and find mathematical representations for it.</p>
 
 </body>
 </html>
