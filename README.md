@@ -64,3 +64,4 @@ img {
 * 20220821: (Website) Update front page. (Content) Migrate some articles from old personal portfolio websites.
 * 20220822: (Front Page) Add "Feature" section. (Content) Draft page for "The Matrix" project; Add draft section for "Dev Log".
 * 20221209: We used to treat the repo as a file host of compiled html files and kept source code seperately. This creates additional buld process and seperated source and result files. The reality is, we really don't care about the compiled HTMLs ourselves so we should just let Jekyll do its job.
+* 20221210: (Article) Create placeholder for [Knowledge Markdown](./Articles/KnowledgeMarkdown).
