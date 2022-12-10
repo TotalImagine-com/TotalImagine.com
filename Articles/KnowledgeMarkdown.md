@@ -1,3 +1,5 @@
+[↵Home](https://www.totalimagine.com/)
+
 # Knowledge Markdown
 
 Original Draft Date: Ca. 2020  

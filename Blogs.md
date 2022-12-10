@@ -1,3 +1,5 @@
+[↵Home](https://www.totalimagine.com/)
+
 # Blogs 随想
 
 Blogs are like vlogs or weChat moments - it's momental, it's 随想, it's blumbing, but here we try to more articulated (on the literature level).
