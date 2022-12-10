@@ -19,5 +19,5 @@ I still haven't figured out all the **intricate logics and behaviors** of this p
 
 So the goal for next time: talk more about the *foundations* of this thing, try to gain more insight into the subject, and find mathematical representations for it.
 
-<img alt="Turing Pattern" height="512" src="https://images.totalimagine.com/turing-pattern.png"/>
-<img alt="Compound Visual" height="512" src="https://images.totalimagine.com/turing-pattern-compound-visual.png"/>
+<img alt="Turing Pattern" max-height="512" src="https://images.totalimagine.com/turing-pattern.png"/>
+<img alt="Compound Visual" max-height="512" src="https://images.totalimagine.com/turing-pattern-compound-visual.png"/>

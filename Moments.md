@@ -20,5 +20,5 @@ One of those days when you suddently realize.
 刚曰：古人制字，性与情皆从心。性即心之理，情即心之用。无理则心乱，无用则心躁。理与用皆不可少。我日用玉兔，夜理嫦娥，生活恰恰乐不可支。  
 娥曰：分手罢！  
 
-<img alt="Moon 1" height="512" src="https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-1.jpg"/>
-<img alt="Moon 2" height="512" src="https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-2.jpg"/>
+<img alt="Moon 1" max-height="512" src="https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-1.jpg"/>
+<img alt="Moon 2" max-height="512" src="https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-2.jpg"/>
