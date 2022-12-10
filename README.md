@@ -60,7 +60,7 @@ img {
 ## Changelog
 
 * 202208: We used to have a 20Mb payload from Airi - it took a while to pure the repo clean. In the future anything this huge should deserve its own repo.
-* 20220820: (Backend) Update and clean up setup; (Content) Add draft blog <a href="./blogs/20220820.html">20220820</a>.
+* 20220820: (Backend) Update and clean up setup; (Content) Add draft blog [20220820](./Blogs#20220820-a-refurbished-website-and-public-content-posting-scheme-wip).
 * 20220821: (Website) Update front page. (Content) Migrate some articles from old personal portfolio websites.
 * 20220822: (Front Page) Add "Feature" section. (Content) Draft page for "The Matrix" project; Add draft section for "Dev Log".
 * 20221209: We used to treat the repo as a file host of compiled html files and kept source code seperately. This creates additional buld process and seperated source and result files. The reality is, we really don't care about the compiled HTMLs ourselves so we should just let Jekyll do its job.
