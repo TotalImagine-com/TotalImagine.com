@@ -49,7 +49,6 @@ img {
 
 ## Online Profiles
 
-<h3><a href="Moments"> Moments</a></h3>
 <h3><a href="https://www.linkedin.com/in/chaojianzhang/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></h3>
 <h3><a href="https://github.com/chaojian-zhang"><i class="fa-brands fa-github"></i> Github</a></h3>
 <h3><a href="https://www.artstation.com/chaojianzhang"><i class="fa-brands fa-artstation"></i> ArtStation</a></h3>
