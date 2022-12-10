@@ -2,7 +2,8 @@
 
 Original Draft Date: Ca. 2017-2018  
 Original Publish Date: N/A  
-Last Update Date: 2022-08-21
+Last Update Date: 2022-08-21  
+Tags: Software, Programming, Simulation, Computer Graphics, Synthesized Images
 
 My first attempt to **computationally generate graphical entities** was using **UDK** for generating **Minecraft scene** back in *2013* while I was still at ICT - that was an untroubled time when all you needed to do was to study, to play games (or for me sometimes it's learning **Maya**), and to watch Harry Potter - what a time! Living was cheap, and the food provided at the school tasted pretty good to me. 
 
@@ -18,4 +19,5 @@ I still haven't figured out all the **intricate logics and behaviors** of this p
 
 So the goal for next time: talk more about the *foundations* of this thing, try to gain more insight into the subject, and find mathematical representations for it.
 
-<img src="https://images.totalimagine.com/turing-pattern.png"/>
+<img alt="Turing Pattern" height="512" src="https://images.totalimagine.com/turing-pattern.png"/>
+<img alt="Compound Visual" height="512" src="https://images.totalimagine.com/turing-pattern-compound-visual.png"/>
