@@ -1,1 +1,12 @@
+# Overall configuration
 google_analytics: G-5GZGVC93CV
+
+# Theme: https://github.com/pages-themes/time-machine
+# More theming: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: pages-themes/time-machine@v0.2.0
+title: The Days We Had
+description: Just some random stuff at the moment.
+
+# Plugins
+plugins:
+- jekyll-remote-theme # Theme

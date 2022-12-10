@@ -1,4 +1,4 @@
-# Blogs
+# Blogs 随想
 
 Blogs are like vlogs or weChat moments - it's momental, it's 随想, it's blumbing, but here we try to more articulated (on the literature level).
 
@@ -86,3 +86,17 @@ Why not use a static webpage builder?
 ### Some Ground Rules
 
 1. Articles are dated and updated; So there is minimal noise.
+
+## 20221209 The Moon
+
+是夜月圆如饼，大且白。  
+月上有一人，姓吴名刚，喜玉兔。  
+娥尝问：西河多兔，汝之爱玉兔较爱我之心几何？  
+刚答曰：爱玉兔者情也，爱美人者性也。  
+娥曰：夫情者欲也，性者质也，何不直言心之所向？  
+刚曰：古人制字，性与情皆从心。性即心之理，情即心之用。无理则心乱，无用则心躁。理与用皆不可少。我日用玉兔，夜理嫦娥，生活恰恰乐不可支。  
+娥曰：分手罢！  
+
+![Moon 1](https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-1.jpg)
+
+![Moon 2](https://images.totalimagine.com/Photos/Astronomy/20221209-Moon-2.jpg)
