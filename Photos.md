@@ -1,6 +1,6 @@
 [↵Home](https://www.totalimagine.com/)
 
-# Articles
+# Photos
 
 Older photos: [Instgram](https://www.instagram.com/wozhishigeluguodeguanchazhe/)
 
