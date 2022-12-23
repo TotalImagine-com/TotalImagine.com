@@ -59,7 +59,6 @@ img {
 ## Links
 
 <a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>
-<a href="https://totalimagine.com/Organization9">Organization 9</a>
 
 ## Online Profiles
 
@@ -74,6 +73,8 @@ img {
 <a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a>
 
 ## Portals
+
+<a href="https://totalimagine.com/Organization9">Organization 9</a>
 
 ## Changelog
 
