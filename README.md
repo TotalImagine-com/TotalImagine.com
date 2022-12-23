@@ -31,30 +31,46 @@ img {
 
 ## Projects
 
-<h3><a href="projects/WIP.html">WIP</a></h3>
-<h3><a href="projects/Matrix.html">Codename: The Matrix</a></h3>
-<h3><a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a></h3>
-<h3><a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a></h3>
+<a href="projects/WIP.html">WIP</a>
+
+<a href="projects/Matrix.html">Codename: The Matrix</a>
+
+<a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>
+
+<a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>
 
 ## Contents
 
-<h3><a href="Articles">Articles</a></h3>
-<h3><a href="Blogs">Blogs</a></h3>
-<h3><a href="Moments">Moments</a></h3>
-<h3><a href="Reviews">Reviews</a></h3>
-<h3><a href="Photos">Photos</a></h3>
+<a href="Articles">Articles</a>
+
+<a href="Blogs">Blogs</a>
+
+<a href="Moments">Moments</a>
+
+<a href="Reviews">Reviews</a>
+
+<a href="Photos">Photos</a>
+
+<a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a>
+
+<a href="Galleries">Galleries</a>
 
 ## Links
 
-<h3><a href="https://files.totalimagine.com/redream.html">Redream (Old)</a></h3>
+<a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>
+<a href="https://totalimagine.com/Organization9">Organization 9</a>
 
 ## Online Profiles
 
-<h3><a href="https://www.linkedin.com/in/chaojianzhang/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></h3>
-<h3><a href="https://github.com/chaojian-zhang"><i class="fa-brands fa-github"></i> Github</a></h3>
-<h3><a href="https://www.artstation.com/chaojianzhang"><i class="fa-brands fa-artstation"></i> ArtStation</a></h3>
-<h3><a href="https://steamcommunity.com/id/kernelkillerz/"><i class="fa-brands fa-steam"></i> Steam</a></h3>
-<h3><a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a></h3>
+<a href="https://www.linkedin.com/in/chaojianzhang/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+
+<a href="https://github.com/chaojian-zhang"><i class="fa-brands fa-github"></i> Github</a>
+
+<a href="https://www.artstation.com/chaojianzhang"><i class="fa-brands fa-artstation"></i> ArtStation</a>
+
+<a href="https://steamcommunity.com/id/kernelkillerz/"><i class="fa-brands fa-steam"></i> Steam</a>
+
+<a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a>
 
 ## Portals
 
