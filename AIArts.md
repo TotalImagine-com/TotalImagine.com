@@ -18,9 +18,11 @@ Original:
 
 <emphasis>Credit: [@lokwh](https://www.instagram.com/lokwh/)</emphasis>
 
-Prompted:
+Result:
 
 <img alt="Lok Han in Snow" max-height="512" src="https://images.totalimagine.com/Midjourney/20221222_girl_in_snow.jpg"/>
+
+<emphasis>Text Prompt: Graceful girl cleaning snow in front of a shinto shrine. Trees in Winter. Snowman with cute nose. Comic Japanese Anime style. HQ.</emphasis>
 
 ### Space travel in a nut shell with a dog
 
