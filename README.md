@@ -25,7 +25,8 @@ img {
 
 ## Feature
 
-<h3>Image: 引力作用下两颗行星的擦肩而过</h3>
+<strong>Image: 引力作用下两颗行星的擦肩而过</strong>
+
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <p>Read more at: <a href="projects/Matrix.html#20220822">The Matrix - Dev Log</a></p>
 
