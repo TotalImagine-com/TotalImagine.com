@@ -6,12 +6,8 @@ Galleries provides a more streamlined experience of some of the illustrations, w
 
 For detailed descriptiosn of art works, see [Arts](/AIArts) and [Illustrations](/Illustrations).
 
-## 2022-12-18
+## Time Travel
 
-<img alt="1" max-height="512" src="https://photos.totalimagine.com/20221218/1.jpg"/>
-<img alt="2" max-height="512" src="https://photos.totalimagine.com/20221218/2.jpg"/>
-<img alt="3" max-height="512" src="https://photos.totalimagine.com/20221218/3.jpg"/>
-<img alt="4" max-height="512" src="https://photos.totalimagine.com/20221218/4.jpg"/>
-<img alt="5" max-height="512" src="https://photos.totalimagine.com/20221218/5.jpg"/>
-<img alt="6" max-height="512" src="https://photos.totalimagine.com/20221218/6.jpg"/>
-<img alt="7" max-height="512" src="https://photos.totalimagine.com/20221218/7.jpg"/>
+<img alt="Time Split" max-height="512" src="https://media.discordapp.net/attachments/1020909675367120907/1055617058601185300/AllanWindmill_Time_travel_in_a_nutshell._6def28e9-bdf6-4418-9251-9cb926c464d8.png"/>
+
+<img alt="Time Station" max-height="512" src="https://media.discordapp.net/attachments/1020909675367120907/1055627377700503593/AllanWindmill_Time_travel_in_a_nutshell._30ca89e8-873d-4098-9722-7c2a6afdb87f.png"/>
