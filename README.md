@@ -48,7 +48,8 @@ img {
 
 ## Links
 
-<a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>
+<a href="https://files.totalimagine.com/redream.html">Redream (Old)</a> <br/>
+<a href="Redream">Redream (New)</a>
 
 ## Online Profiles
 
