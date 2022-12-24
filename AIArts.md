@@ -37,3 +37,7 @@ Platform: Midjourney
 ## Conspiracy
 
 <img alt="Mummies and Zombies" max-height="512" src="https://cdn.midjourney.com/56386973-8d41-4154-9509-068f77feb0f5/grid_0.png"/>
+
+## Self-Aware
+
+<img alt="Robot Reading Whiteboard" max-height="512" src="https://images.totalimagine.com/Midjourney/20221224_robot_reading_whiteboard.jpg"/>
