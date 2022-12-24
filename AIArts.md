@@ -28,8 +28,12 @@ Platform: Midjourney
 
 ## Time Travel in a Nutshell
 
-<img alt="Time Travel" max-height="512" src="https://cdn.discordapp.com/attachments/1020909675367120907/1055616905295167508/AllanWindmill_Time_travel_in_a_nutshell._1dd98fec-ce50-4dae-a18b-f3ffed43ff0e.png"/>
+<img alt="Time Travel" max-height="512" src="https://cdn.midjourney.com/7b33d930-f0eb-433d-8c2f-d3fb6eb1d825/grid_0.png"/>
 
 ## Cosmic Light-Train
 
 <img alt="Train" max-height="512" src="https://cdn.discordapp.com/attachments/1020909675367120907/1055616802111111298/AllanWindmill_Time_travel_in_a_nutshell._af30d470-2f97-4968-aa3f-52fb4d8133a9.png"/>
+
+## Conspiracy
+
+<img alt="Mummies and Zombies" max-height="512" src="https://cdn.midjourney.com/56386973-8d41-4154-9509-068f77feb0f5/grid_0.png"/>
