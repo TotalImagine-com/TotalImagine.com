@@ -24,7 +24,7 @@ img {
 
 ## Feature
 
-<strong>Image: 引力作用下两颗行星的擦肩而过</strong>
+<strong>Image: 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <p>Read more at: <a href="projects/Matrix.html#20220822">The Matrix - Dev Log</a></p>
