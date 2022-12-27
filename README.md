@@ -57,7 +57,8 @@ img {
 <a href="https://github.com/chaojian-zhang"><i class="fa-brands fa-github"></i> Github</a> <br/>
 <a href="https://www.artstation.com/chaojianzhang"><i class="fa-brands fa-artstation"></i> ArtStation</a> <br/>
 <a href="https://steamcommunity.com/id/kernelkillerz/"><i class="fa-brands fa-steam"></i> Steam</a> <br/>
-<a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a>
+<a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a> <br/>
+<a href="https://charles-zhang.itch.io/"> Itch.io</a>
 
 ## Portals
 
