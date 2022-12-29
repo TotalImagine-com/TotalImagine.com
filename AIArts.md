@@ -41,3 +41,7 @@ Platform: Midjourney
 ## Self-Aware
 
 <img alt="Robot Reading Whiteboard" max-height="512" src="https://images.totalimagine.com/Midjourney/20221224_robot_reading_whiteboard.jpg"/>
+
+## Innocence
+
+<img alt="Peaceful Youthful TIme" max-height="512" src="https://images.totalimagine.com/Midjourney/20221228_innocence.jpg"/>
