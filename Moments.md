@@ -1,6 +1,6 @@
 [↵Home](https://www.totalimagine.com/)
 
-# Moments
+# Moment of Thought
 
 Too short to count as "Blogs"!😝
 
@@ -28,3 +28,23 @@ One of those days when you suddently realize.
 ## 20221219
 
 > 走罢走罢！
+
+<!-- (Inspiration) Dream of Red Chamber -->
+
+## 20230106
+
+我梦到一个久违的朋友，  
+她曾陪我度过梦中大半时光。  
+也曾闲情漫步，  
+也曾鏖战魔物。  
+她是高挂北斗的闪耀星辰，  
+我是穷困他乡的游子浪人。  
+我已不知去哪里找寻你，  
+缘此又造访我梦中。  
+下次若我们再遇到，  
+万万不教韶光虚度。  
+
+欣欣，欣欣，  
+只因你是我的梦中人。  
+
+<img alt="Xin Xin" max-height="512" src="https://cdn.midjourney.com/e9059f81-85df-4fad-9a52-9ab7bfe41fc9/grid_0.png"/>

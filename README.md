@@ -40,7 +40,7 @@ img {
 
 <a href="Articles">Articles</a> <br/>
 <a href="Blogs">Blogs</a> <br/>
-<a href="Moments">Moments</a> <br/>
+<a href="Moments">Moment of Thought</a> <br/>
 <a href="Reviews">Reviews</a> <br/>
 <a href="Photos">Photos</a> <br/>
 <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
