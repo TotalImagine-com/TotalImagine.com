@@ -48,3 +48,11 @@ One of those days when you suddently realize.
 只因你是我的梦中人。  
 
 <img alt="Xin Xin" max-height="512" src="https://cdn.midjourney.com/e9059f81-85df-4fad-9a52-9ab7bfe41fc9/grid_0.png"/>
+
+## 20230204
+
+<img alt="First Scene" max-height="512" src="https://images.totalimagine.com/Renders/TheMatrix/20230204_Raytrix_AP_with_Tone_Mapping.jpg"/>
+
+图中是一个简单的三维渲染，与寻常流程不同之处在于”界面“——说起来类似于游戏编程，这个画面的搭建主要是通过脚本实现。是否能够当作今后更为宏大目标的基础，尚未可知。  
+想到十五年前我学编程的第一节课，教的是花三个月时间写一个《西游记》程序——用C++编程的乐趣在于有朝一日所有的框架搭建完成，按一个按钮，看着程序就乖乖按照自己的指令工作。我用过的软件框架无数，使用其他工具少能够有这种成就感。  
+​近来做很多看似实用、功利主义的项目，不论结果多么花哨，然而并没有自己抽空制作的这些精心架构的软件来的实在。  
