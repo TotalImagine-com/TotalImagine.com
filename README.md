@@ -72,3 +72,7 @@ img {
 * 20220822: (Front Page) Add "Feature" section. (Content) Draft page for "The Matrix" project; Add draft section for "Dev Log".
 * 20221209: We used to treat the repo as a file host of compiled html files and kept source code seperately. This creates additional buld process and seperated source and result files. The reality is, we really don't care about the compiled HTMLs ourselves so we should just let Jekyll do its job.
 * 20221210: (Article) Create placeholder for [Knowledge Markdown](./Articles/KnowledgeMarkdown).
+
+## TODO
+
+* (20230702) Kind of do not like the current Github Pages page layout - too much distract and severely obsecures the contents of reading. We should either modify the template, or simply remove the template all together. I want something super clean and put an unbiased focus on contents (e.g. like how Instgram or WeChat presents posts).
