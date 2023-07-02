@@ -70,3 +70,19 @@ Arrival (2016) made me cry.
 ​ChatGPT puts it this way: it's like experiencing a temporary shift of reality where everything seems possible, yet difficult to determine if these assumptions are correct.
 
 (Remark, #20230304) However, if you term it as "Prophecy", the associated feeling/altitude is quite different.
+
+## 20230702 Iskra - Redream
+
+Tags: Deeper Feelings
+
+(SHOULD WE PUT THIS INTO "REDREAM" page instead?)
+
+> 欣欣，你是我的梦中人。
+
+我做了一个梦。  
+梦中我哭成泪人。
+
+“我本来喜欢的是J，不过如果是你的话，我其实也可以的。”  
+我都不需要选，因为我在另一个世界中已经喜欢两个你。
+
+(Remark) You always have a spot in my heart.
