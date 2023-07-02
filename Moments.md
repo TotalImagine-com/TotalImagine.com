@@ -61,6 +61,12 @@ One of those days when you suddently realize.
 
 ### Arrival and Seeing Future
 
-(PENDING MIGRATION FROM WECHAT)
+Arrival (2016) made me cry.
+
+​Because I know what it feels like to see the future.[Let Down]
+​
+​What an ambivalent feeling - when you see every single moment of your future in front of you, you are simultaneously acting and observing. It's a mix of serenity and deep deep confusion.
+​
+​ChatGPT puts it this way: it's like experiencing a temporary shift of reality where everything seems possible, yet difficult to determine if these assumptions are correct.
 
 (Remark, #20230304) However, if you term it as "Prophecy", the associated feeling/altitude is quite different.
