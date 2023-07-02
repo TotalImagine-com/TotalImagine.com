@@ -76,3 +76,4 @@ img {
 ## TODO
 
 * (20230702) Kind of do not like the current Github Pages page layout - too much distract and severely obsecures the contents of reading. We should either modify the template, or simply remove the template all together. I want something super clean and put an unbiased focus on contents (e.g. like how Instgram or WeChat presents posts).
+* (20230702) Consider removing "Changelog" and "TODO" section on the website - irrelevant to readers.
