@@ -31,3 +31,8 @@ Tags: 20191013, drawing, method, pending
 5. Inpired by: Water surface reflection - thinking about whether we can see the edge of the terrain and the tall buildings in the distance
 6. Idea From/Motivation: When we draw a 3D cube on canvas, what/how/why should it look like? E.g. the perspective, relative sizes.
 7. Background Knowledge that motivated this thinking: Ray tracing based rendering, basic trigonometry
+
+## TODO
+
+* (20230702) Kind of do not like the current Github Pages page layout - too much distract and severely obsecures the contents of reading. We should either modify the template, or simply remove the template all together. I want something super clean and put an unbiased focus on contents (e.g. like how Instgram or WeChat presents posts).
+* (20230702) Consider removing "Changelog" and "TODO" section on the website - irrelevant to readers.
