@@ -1,5 +1,8 @@
 # Start-up/Software/Entrepreneurship Ideas
 
+Created: 2023-08-01  
+Updated: 2023-08-02
+
 Some of those are collected from personal notes; Others might be unique per this article.
 
 ## Categorized
