@@ -47,19 +47,19 @@ There are a few things that I've always wanted to work on but never had a chance
 
 Some things are yet to get more serious!😠
 
-&emsp;>> <a href="Software">Softare (PENDING)</a> <br/>
-&emsp;>> <a href="Games">Games (PENDING)</a> <br/>
-&emsp;>> <a href="Scripts">Scripts & Programs (PENDING)</a> <br/>
+&emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
 &emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
 &emsp;>> <a href="Articles">Articles</a> <br/>
 &emsp;>> <a href="Blogs">Blogs</a> <br/>
 &emsp;>> <a href="Books">Books (PENDING)</a> <br/>
+&emsp;>> <a href="Galleries">Galleries</a> <br/>
+&emsp;>> <a href="Games">Games (PENDING)</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
-&emsp;>> <a href="Reviews">Reviews</a> <br/>
-&emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
-&emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
-&emsp;>> <a href="Galleries">Galleries</a>
+&emsp;>> <a href="Reviews">Reviews</a> <br/>
+&emsp;>> <a href="Scripts">Scripts & Programs (PENDING)</a> <br/>
+&emsp;>> <a href="Software">Softare (PENDING)</a> <br/>
+&emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
 
 ## Links🔗
 
