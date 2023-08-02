@@ -5,8 +5,8 @@ google_analytics: G-5GZGVC93CV
 ## More theming: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 ## Disabled as of 2023-07-02 because themes are too distracting and abuses colors.
 # remote_theme: pages-themes/leap-day@v0.2.0
-title: Stars Bend Light
-description: Why are you surprised and are you still training with backpropagation?
+# title: Stars Bend Light
+# description: Why are you surprised and are you still training with backpropagation?
 
 ## Plugins - Theme
 ## Disabled as of 2023-07-02 because themes are too distracting and abuses colors.

@@ -20,13 +20,15 @@ img {
 <script src="https://kit.fontawesome.com/9f2cdb261e.js" crossorigin="anonymous"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-# Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>
+# <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/>
+
+Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>
 
 (Been busy these days, will update the website soon!)
 
 Used to work on a variety of personal projects (mostly software), nowadays I focus on my full-time job as Investment Analyst at OTPP, plus a secret side-project!😉
 
-## Feature🌟
+## Feature: Stars Bend Light🌟
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
@@ -66,6 +68,8 @@ Some things are yet to get more serious!😠
 * <a href="https://www.artstation.com/chaojianzhang"><i class="fa-brands fa-artstation"></i> ArtStation</a>: Very occassionally when I do get some (digital) art work done, I make sure I post it here.  <br/>
 * <a href="https://steamcommunity.com/id/kernelkillerz/"><i class="fa-brands fa-steam"></i> Steam</a>: Used to play games, not that much these days. <br/>
 * <a href="https://www.instagram.com/wozhishigeluguodeguanchazhe/"><i class="fa-brands fa-instagram"></i> Instgram</a>: Travel photography. <br/>
+* <a href="https://youtube.com/@ChaojianZhang"><i class="fa-brands fa-youtube"></i> YouTube (Personal)</a>: Tech talks, game videos, random projects. <br/>
+* <a href="https://www.youtube.com/@emily_james"><i class="fa-brands fa-youtube"></i> Emily & James</a>: 💕. <br/>
 * <a href="https://charles-zhang.itch.io/"> Itch.io</a>: Provides downloads of functional programs.
 
 🌌Portal: <a href="https://totalimagine.com/Organization9">Organization 9</a>
