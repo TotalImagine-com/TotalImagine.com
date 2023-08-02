@@ -30,14 +30,14 @@ Used to work on a variety of personal projects (mostly software), nowadays I foc
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
-<p>Read more at: <a href="Projects/Matrix.html#20220822">The Matrix - Dev Log</a></p>
+<p>Read more at: <a href="Articles/Matrix.html#20220822">The Matrix - Dev Log</a></p>
 
 ## Projects🌉
 
-There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
+There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
-&emsp;>> <a href="Projects/WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
-&emsp;>> <a href="Projects/Matrix.html">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
+&emsp;>> <a href="WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
+&emsp;>> <a href="Articles/Matrix.html">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE//">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
 &emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
@@ -61,6 +61,10 @@ Some things are yet to get more serious!😠
 &emsp;>> <a href="Software">Softare (PENDING)</a> <br/>
 &emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
 
+### Animations
+
+* [Emily & James Pilot](https://youtu.be/qyUZH856YCA): Published under account <img height="26" src="https://yt3.googleusercontent.com/0X3uivRDsLOLNtwJMwSxiWDZoY8yQtuyWPBCkxv49O3PFxVWjN-MO_q0MJgGbb_9F5H5lj_43w=s176-c-k-c0x00ffffff-no-rj" style="vertical-align:middle"/> [Emily & James](https://www.youtube.com/@emily_james), full video available on [OpenSea](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/105452358948639737526817096336073828434253701672739883810084060934301473046529). First-attempt full CGI animation. Pending dedicated <a href="Articles/EmilyAndJames.html">write-up article</a>.
+
 ## Links🔗
 
 🐫Specialty: <a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>, <a href="Redream">Redream (New)</a>
@@ -76,12 +80,12 @@ Some things are yet to get more serious!😠
 * <a href="https://www.youtube.com/@emily_james"><i class="fa-brands fa-youtube"></i> Emily & James</a>: 💕. <br/>
 * <a href="https://charles-zhang.itch.io/"> Itch.io</a>: Provides downloads of functional programs.
 
-🌌Portal: <a href="https://totalimagine.com/Organization9">Organization 9</a>
+🌌Portal - Organization 9: <a href="http://reports.org9.totalimagine.com/">Reports</a>
 
 ## Changelog📑
 
 * 2018: Historical website at [Wayback Machine](https://web.archive.org/web/20180817180122/https://totalimagine.com/).
-* 202208: (#Technical) We used to have a 20Mb payload from Airi - it took a while to pure the repo clean. In the future anything this huge should deserve its own repo.
+* 202208: (#Technical) We used to have a 20Mb payload from Airi - it took a while to make the repo clean. In the future anything this huge should deserve its own repo.
 * 20220820: (Backend) Update and clean up setup; (Content) Add draft blog [20220820](./Blogs#20220820-a-refurbished-website-and-public-content-posting-scheme-wip).
 * 20220821: (Website) Update front page. (Content) Migrate some articles from old personal portfolio websites.
 * 20220822: (Front Page) Add "Feature" section. (Content) Draft page for "The Matrix" project; Add draft section for "Dev Log".

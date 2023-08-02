@@ -1,3 +1,5 @@
+[↵Home](https://www.totalimagine.com/)
+
 # My Long Hair Experience
 
 Original Draft: 2022-12-20

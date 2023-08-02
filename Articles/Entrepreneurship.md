@@ -1,3 +1,5 @@
+[↵Home](https://www.totalimagine.com/)
+
 # Start-up/Software/Entrepreneurship Ideas
 
 Created: 2023-08-01  
