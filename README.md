@@ -20,7 +20,7 @@ img {
 <script src="https://kit.fontawesome.com/9f2cdb261e.js" crossorigin="anonymous"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-# Welcome!
+# Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>
 
 (Been busy these days, will update the website soon!)
 
