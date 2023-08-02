@@ -20,8 +20,6 @@ img {
 <script src="https://kit.fontawesome.com/9f2cdb261e.js" crossorigin="anonymous"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-# <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/>
-
 Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>
 
 (Been busy these days, will update the website soon!)
@@ -91,3 +89,5 @@ Some things are yet to get more serious!😠
 * 20221210: (Article) Create placeholder for [Knowledge Markdown](./Articles/KnowledgeMarkdown).
 * 20230702: (Appearance) Change theme.
 * 20230801: (Appearance) Update front page; Clean up and visual formatting.
+
+Copyright © 2018-2023 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
