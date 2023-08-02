@@ -32,30 +32,36 @@ Used to work on a variety of personal projects (mostly software), nowadays I foc
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
-<p>Read more at: <a href="projects/Matrix.html#20220822">The Matrix - Dev Log</a></p>
+<p>Read more at: <a href="Projects/Matrix.html#20220822">The Matrix - Dev Log</a></p>
 
 ## Projects🌉
 
 There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
-&emsp;<a href="projects/WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
-&emsp;<a href="projects/Matrix.html">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
-&emsp;<a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
-&emsp;<a href="https://github.com/chaojian-zhang/MULTITUDE//">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
-&emsp;<a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
-&emsp;<a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>: Node-based process automation environment
+&emsp;>> <a href="Projects/WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
+&emsp;>> <a href="Projects/Matrix.html">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
+&emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
+&emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE//">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
+&emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
+&emsp;>> <a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>: Node-based process automation environment
 
 ## Contents🐙
 
 Some things are yet to get more serious!😠
 
-&emsp;<a href="Articles">Articles</a> <br/>
-&emsp;<a href="Blogs">Blogs</a> <br/>
-&emsp;<a href="Moments">Moment of Thought</a> <br/>
-&emsp;<a href="Reviews">Reviews</a> <br/>
-&emsp;<a href="Photos">Photos</a> <br/>
-&emsp;<a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
-&emsp;<a href="Galleries">Galleries</a>
+&emsp;>> <a href="Software">Softare (PENDING)</a> <br/>
+&emsp;>> <a href="Games">Games (PENDING)</a> <br/>
+&emsp;>> <a href="Scripts">Scripts & Programs (PENDING)</a> <br/>
+&emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
+&emsp;>> <a href="Articles">Articles</a> <br/>
+&emsp;>> <a href="Blogs">Blogs</a> <br/>
+&emsp;>> <a href="Books">Books (PENDING)</a> <br/>
+&emsp;>> <a href="Moments">Moment of Thought</a> <br/>
+&emsp;>> <a href="Reviews">Reviews</a> <br/>
+&emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
+&emsp;>> <a href="Photos">Photos</a> <br/>
+&emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
+&emsp;>> <a href="Galleries">Galleries</a>
 
 ## Links🔗
 
@@ -76,6 +82,7 @@ Some things are yet to get more serious!😠
 
 ## Changelog📑
 
+* 2018: Historical website at [Wayback Machine](https://web.archive.org/web/20180817180122/https://totalimagine.com/).
 * 202208: (#Technical) We used to have a 20Mb payload from Airi - it took a while to pure the repo clean. In the future anything this huge should deserve its own repo.
 * 20220820: (Backend) Update and clean up setup; (Content) Add draft blog [20220820](./Blogs#20220820-a-refurbished-website-and-public-content-posting-scheme-wip).
 * 20220821: (Website) Update front page. (Content) Migrate some articles from old personal portfolio websites.
