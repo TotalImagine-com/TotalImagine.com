@@ -26,6 +26,8 @@ Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class
 
 Used to work on a variety of personal projects (mostly software), nowadays I focus on my full-time job as Investment Analyst at OTPP, plus a secret side-project!😉
 
+If you are talented or resources and looking to get inspired, consult my <a href="Articles/Entrepreneurship">business ideas</a>.
+
 ## Feature: Stars Bend Light🌟
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
@@ -73,9 +75,9 @@ Cool, fully-finished/half-finished/experimental projects.
 
 Tags: Software, Workflow, Business Automation, Data Analytics
 
-Github: https://github.com/Charles-Zhang-Parcel
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEHaf_4y5AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Link: <a href="https://github.com/Charles-Zhang-Parcel"><i class="fa-brands fa-github"></i> Github</a>
 
 ## Links🔗
 
