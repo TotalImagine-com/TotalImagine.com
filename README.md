@@ -84,12 +84,9 @@ Some things are yet to get more serious!😠
 &emsp;>> <a href="Blogs">Blogs</a> <br/>
 &emsp;>> <a href="Books">Books (PENDING)</a> <br/>
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
-&emsp;>> <a href="Games">Games (PENDING)</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
 &emsp;>> <a href="Reviews">Reviews</a> <br/>
-&emsp;>> <a href="Scripts">Scripts & Programs (PENDING)</a> <br/>
-&emsp;>> <a href="Software">Softare (PENDING)</a> <br/>
 &emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
 
 ### Animations
@@ -107,6 +104,36 @@ Tags: Software, Workflow, Business Automation, Data Analytics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEHaf_4y5AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Link: <a href="https://github.com/Charles-Zhang-Parcel"><i class="fa-brands fa-github"></i> Github</a>
+
+### Games
+
+Original.
+
+(Old: Flash, Action Game)
+
+<iframe src="https://itch.io/embed/723030?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/domino">Domino 3D by Charles Zhang</a></iframe>
+
+### Programs
+
+Small utilities or fun stuff. (Might also share some useful Pure/Python scripts in the future.)
+
+<iframe src="https://itch.io/embed/730091?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/turing-engine">Turing Engine by Charles Zhang</a></iframe>
+
+<iframe src="https://itch.io/embed/532776?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/lan-test">LAN Test Utility by Charles Zhang</a></iframe>
+
+### Software
+
+Functional and specialized.
+
+<iframe src="https://itch.io/embed/730102?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/dream-editor">Dream Editor V0.9 by Charles Zhang</a></iframe>
+
+<iframe src="https://itch.io/embed/752678?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/pdf-apprentice">PDF Apprentice by Charles Zhang</a></iframe>
+
+<iframe src="https://itch.io/embed/729764?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/video-tagnote-player">Video Tag/Note Player by Charles Zhang</a></iframe>
+
+### Resources
+
+<iframe src="https://itch.io/embed/1263446?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/ue5-third-person-dedicatedserver-testpackage">UE5 Third Person DedicatedServer TestPackage by Charles Zhang</a></iframe>
 
 ## Links🔗
 
