@@ -65,6 +65,18 @@ Some things are yet to get more serious!😠
 
 * [Emily & James Pilot](https://youtu.be/qyUZH856YCA): Published under account <img height="26" src="https://yt3.googleusercontent.com/0X3uivRDsLOLNtwJMwSxiWDZoY8yQtuyWPBCkxv49O3PFxVWjN-MO_q0MJgGbb_9F5H5lj_43w=s176-c-k-c0x00ffffff-no-rj" style="vertical-align:middle"/> [Emily & James](https://www.youtube.com/@emily_james), full video available on [OpenSea](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/105452358948639737526817096336073828434253701672739883810084060934301473046529). First-attempt full CGI animation. Pending dedicated <a href="Articles/EmilyAndJames.html">write-up article</a>.
 
+### Concepts
+
+Cool, fully-finished/half-finished/experimental projects.
+
+#### Parcel
+
+Tags: Software, Workflow, Business Automation, Data Analytics
+
+Github: https://github.com/Charles-Zhang-Parcel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEHaf_4y5AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Links🔗
 
 🐫Specialty: <a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>, <a href="Redream">Redream (New)</a>
