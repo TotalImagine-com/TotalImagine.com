@@ -30,16 +30,16 @@ Used to work on a variety of personal projects (mostly software), nowadays I foc
 
 <img src="https://images.totalimagine.com/the-matrix-two-points-20220822.png" style="background-color: black;"/>
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
-<p>Read more at: <a href="Articles/Matrix.html#20220822">The Matrix - Dev Log</a></p>
+<p>Read more at: <a href="Articles/Matrix#20220822">The Matrix - Dev Log</a></p>
 
 ## Projects🌉
 
 There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
 &emsp;>> <a href="WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
-&emsp;>> <a href="Articles/Matrix.html">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
+&emsp;>> <a href="Articles/Matrix">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
-&emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE//">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
+&emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE/">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
 &emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
 &emsp;>> <a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>: Node-based process automation environment
 
