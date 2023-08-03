@@ -23,7 +23,11 @@ Some of those are collected from personal notes; Others might be unique per this
 ## Solution
 
 * (2022) (Business Automation) Needs a visual-driven node-based process automation framework. Kind of [WWF](https://learn.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/). Partially implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) and https://charles-zhang.itch.io/expressoExpresso, also as a core concept in [dbt](https://github.com/dbt-labs/dbt-core). Pending a dedicated article on this concept. Alternative workflow uses Python/Jupyter Notebook, or [Pure](https://github.com/Pure-The-Language).
-* (2022) Needs a better programmable business analytics platform, ideally incorporating dbt like processing workflow and as one-stop ETL/ELT solution, as an alternative to [Grafana](https://grafana.com/).
+* (2022) (Business Analytics) Needs a better programmable business analytics platform, ideally incorporating dbt like processing workflow and as one-stop ETL/ELT solution, as an alternative to [Grafana](https://grafana.com/). PowerBI generally is the best but there are lots of issue with its programmability, lack of open-source nature, and very troublesome GUI (too many clicks).
+
+## Social Media
+
+* (2023) On the problem of mating: [Github](https://github.com/SeekingMate)
 
 ## Dated
 

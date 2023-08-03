@@ -34,7 +34,7 @@ If you are talented or resources and looking to get inspired, consult my <a href
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
 <p>Read more at: <a href="Articles/Matrix#20220822">The Matrix - Dev Log</a></p>
 
-## Projects🌉
+## Main Projects🌉
 
 There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
@@ -44,6 +44,35 @@ There are a few things that I've always wanted to work on but never had a chance
 &emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE/">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
 &emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
 &emsp;>> <a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>: Node-based process automation environment
+
+### Project Ideas (Invite for Collaboration)
+
+As mentioned above and as a summary, here are some projects that I am genuinely interested in, and everyone is welcome to collaborate with me. Notice those projects tends to have a non-deteremined production timeline because I cannot spare dedicated time working on them. Also by no means that I will accept collaboration proposal blindly for I don't have time for casual engagements. At the moment, my entire focus is either on work at OTPP, or Project Nine.
+
+Software:
+
+* Pure The Language (Work-in-Progress): [Github](https://github.com/Pure-The-Language)
+* Parcel The Workflow Engine (Halted): [Github](https://github.com/Charles-Zhang-Parcel)
+* Formless The Language (Deprecated): [Github](https://github.com/chaojian-zhang/FormlessProgramming)
+* Somewhere/Somewhere 2 (Deprecated): [Website](https://somewhere.totalimagine.com/)
+
+Higher-Order Experiments:
+
+* Airi (Halted): Pending detailed write-up
+
+Hardware/Software/Program:
+
+* (Idea) Motion-tracked 3D environment - looking through a screen. It's like VR but NOT VR and I assert the feeling is even more amazing. Pending dedicated write-up on my plan using OAK-D-Lite. Can be developed into a machine-learning (computer graphics) project.
+
+Games:
+
+* Deep Dive The Game (Shelved): PENDING MORE DETAILS (Pending visionary write-up).
+
+Longer-Term Projects:
+
+* Project Nine (Active): PENDING AUDIENCE OVERVIEW.
+
+For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">business ideas</a>.
 
 ## Contents🐙
 
