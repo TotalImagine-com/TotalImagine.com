@@ -93,6 +93,12 @@ Some things are yet to get more serious!😠
 
 * [Emily & James Pilot](https://youtu.be/qyUZH856YCA): Published under account <img height="26" src="https://yt3.googleusercontent.com/0X3uivRDsLOLNtwJMwSxiWDZoY8yQtuyWPBCkxv49O3PFxVWjN-MO_q0MJgGbb_9F5H5lj_43w=s176-c-k-c0x00ffffff-no-rj" style="vertical-align:middle"/> [Emily & James](https://www.youtube.com/@emily_james), full video available on [OpenSea](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/105452358948639737526817096336073828434253701672739883810084060934301473046529). First-attempt full CGI animation. Pending dedicated <a href="Articles/EmilyAndJames.html">write-up article</a>.
 
+### Articles
+
+* [(2018) Turing Pattern](./Articles/TuringPattern)
+* [(2019) PEY Co-op Final Report](https://files.totalimagine.com/PDF/2019PEYFinalReport.pdf)
+* [(2020) Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf)
+
 ### Concepts
 
 Cool, fully-finished/half-finished/experimental projects.
