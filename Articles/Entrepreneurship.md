@@ -20,6 +20,10 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Hardware
 
+## Online Services
+
+* (2023) Anonymous Free Social Online Surveys (with demographical identification information upon registration) for social studies, personal FAQ, and market research. The website should be something like Stackoverflows and be easily accessible and free-to-use, and offers among other things most importantly: registration and personal social identity information editing, survey publication and editing, interest editing, and participated surveys page. A person can see survey results after participation. Any new survey should ideally do a search to avoid repeating the same kind of questions. Each survey is versioned and new edits must record new polls and cannot directly inherit older polls. No comments shall be provided, but survey publisher can describe survey goals and purpose.
+
 ## Solution
 
 * (2022) (Business Automation) Needs a visual-driven node-based process automation framework. Kind of [WWF](https://learn.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/). Partially implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) and https://charles-zhang.itch.io/expressoExpresso, also as a core concept in [dbt](https://github.com/dbt-labs/dbt-core). Pending a dedicated article on this concept. Alternative workflow uses Python/Jupyter Notebook, or [Pure](https://github.com/Pure-The-Language).

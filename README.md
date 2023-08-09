@@ -26,7 +26,7 @@ Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class
 
 Used to work on a variety of personal projects (mostly software), nowadays I focus on my full-time job as Investment Analyst at OTPP, plus a secret side-project!😉
 
-If you are talented or resources and looking to get inspired, consult my <a href="Articles/Entrepreneurship">business ideas</a>.
+If you are talented or resourceful and looking for inspiration, consult my <a href="Articles/Entrepreneurship">business ideas</a>.
 
 ## Feature: Stars Bend Light🌟
 
