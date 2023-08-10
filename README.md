@@ -49,30 +49,30 @@ There are a few things that I've always wanted to work on but never had a chance
 
 As mentioned above and as a summary, here are some projects that I am genuinely interested in, and everyone is welcome to collaborate with me. Notice those projects tends to have a non-deteremined production timeline because I cannot spare dedicated time working on them. Also by no means that I will accept collaboration proposal blindly for I don't have time for casual engagements. At the moment, my entire focus is either on work at OTPP, or Project Nine.
 
-Software:
+For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">business ideas</a>.
+
+***Software***
 
 * Pure The Language (Work-in-Progress): [Github](https://github.com/Pure-The-Language)
 * Parcel The Workflow Engine (Halted): [Github](https://github.com/Charles-Zhang-Parcel)
 * Formless The Language (Deprecated): [Github](https://github.com/chaojian-zhang/FormlessProgramming)
 * Somewhere/Somewhere 2 (Deprecated): [Website](https://somewhere.totalimagine.com/)
 
-Higher-Order Experiments:
+***Higher-Order Experiments***
 
 * Airi (Halted): Pending detailed write-up
 
-Hardware/Software/Program:
+***Hardware/Software/Program***
 
 * (Idea) Motion-tracked 3D environment - looking through a screen. It's like VR but NOT VR and I assert the feeling is even more amazing. Pending dedicated write-up on my plan using OAK-D-Lite. Can be developed into a machine-learning (computer graphics) project.
 
-Games:
+***Games***
 
 * Deep Dive The Game (Shelved): PENDING MORE DETAILS (Pending visionary write-up).
 
-Longer-Term Projects:
+***Longer-Term Projects***
 
 * Project Nine (Active): PENDING AUDIENCE OVERVIEW.
-
-For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">business ideas</a>.
 
 ## Contents🐙
 
