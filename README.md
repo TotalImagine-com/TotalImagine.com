@@ -38,7 +38,7 @@ If you are talented or resourceful and looking for inspiration, consult my <a hr
 
 There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
-&emsp;>> <a href="WIP.html">WIP</a>: Highlights of "Work-in-progress" <br/>
+&emsp;>> <a href="WIP">WIP</a>: Highlights of "Work-in-progress" <br/>
 &emsp;>> <a href="Articles/Matrix">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE/">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
@@ -98,6 +98,10 @@ Some things are yet to get more serious!😠
 * [(2018) Turing Pattern](./Articles/TuringPattern)
 * [(2019) PEY Co-op Final Report](https://files.totalimagine.com/PDF/2019PEYFinalReport.pdf)
 * [(2020) Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf)
+
+### Books
+
+* [(2016) Think & Miss (Chinese) - Book 1](https://files.totalimagine.com/PDF/ThinkAndMiss_Book1.pdf) (Probably needs a better context, e.g. as an introduction article/page)
 
 ### Concepts
 

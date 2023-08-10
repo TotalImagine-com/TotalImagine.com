@@ -1,6 +1,7 @@
 # Misc
 
-1. Add category: University Sh*t (Change to: University Throwaway), and try to put useful Ut projects there. Don't push for absolute quality though, be strategic. (Category Intro)"Don't get me wrong, I love my university and the sh*t part has nothing to do with knowledge I learn. I am just trying to find a place to put those things I did yet not quality per my other standards, and show how much I don't f***ing care about administration."
+* Desperately need a management scheme regarding what to put here and what to put under My.All Dated/Markdown. Ideally we put everything there first, and only put here when we are fully develoepd. Also contents here are public-facing and expectes higher integrity and quality.
+1. Add category: ~~University Sh*t~~ (Change to: University Throwaway), and try to put useful Ut projects there. Don't push for absolute quality though, be strategic. (Category Intro)"Don't get me wrong, I love my university and the sh*t part has nothing to do with knowledge I learn. I am just trying to find a place to put those things I did yet not quality per my other standards, and show how much I don't f***ing care about administration." (Comment, #20230810) Don't call it shit, don't talk about the shitty part. We can make something useful out of what we have.
 
 # Website Rules
 
