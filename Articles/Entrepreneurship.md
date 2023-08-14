@@ -20,6 +20,11 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Hardware
 
+## Non-Centralized Applications
+
+* Ethereum Lottery: Real-world lotteries are not trustworthy. Programmed in [Solidity](https://github.com/ethereum/solidity), participants are guaranteed a transparent process. No one is there to take our winning money as tax. Idea courtesy of Shawn Li.
+* Ethereum Central Ledger: When implemented, it can serve as a fund for apps like [SeekingMate](https://github.com/SeekingMate).
+
 ## Online Services
 
 * (2023) Anonymous Free Social Online Surveys (with demographical identification information upon registration) for social studies, personal FAQ, and market research. The website should be something like Stackoverflows and be easily accessible and free-to-use, and offers among other things most importantly: registration and personal social identity information editing, survey publication and editing, interest editing, and participated surveys page. A person can see survey results after participation. Any new survey should ideally do a search to avoid repeating the same kind of questions. Each survey is versioned and new edits must record new polls and cannot directly inherit older polls. No comments shall be provided, but survey publisher can describe survey goals and purpose.
