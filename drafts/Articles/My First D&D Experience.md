@@ -1,0 +1,16 @@
+# My First D&D Experience
+
+Tags: Record, Highlight, Experience
+
+Oriinal experience: 2023-08-04 to 2023-08-07
+Original draft: 2023-08-14
+
+(It's useful for such raw records of experience, they can latter be used as reference for derivative work)
+
+I may be have came across the term D&D before, especially when I was facinated by and playing with Magic: The Gathering. The way I remembered it, however, was that I came across it when I was doing research on world building - and found online platforms like World Anvil. So as early as Dec 2021 I purchased "Dungeons & Dragons Essentials Kit (D&D Boxed Set)" from Amazon and tried to study it. However reading and trying to understand all the parameters was hard, and there were two other challenges: 1) I didn't quite get how the abstractions apply to real games and aid in flexibility other than destroys it; 2) The use and when to use dice rolls were just not clear simply from reading the guide books. However I did pick up the important of in-character and out-character when it comes to player participation. In June/July 2023 I had a personal project which demands me to go out and meet more people. It's during this time I thought of picking up D&D again and joined Toronto D&D on Discord. At first I didn't find any gatherings but Mark had a summer time vacation event so I enrolled.
+
+As DMing goes, I actually designed a small game for High-Rise Invasion and played with my friends while in Vancouver and it went well. However for that kind of specific custom map designs I did feel the need for a lot of exposure on the surrounding environment in order to keep the options open to the player.
+
+Time flies by when playing this game, we easily spend 3 hours just to travel around or talk to people or fighting and investigating a location. All in all we played 12 hours, completing 2 small campaigns, all ending with a magnificent fight. In general, the game has travel/search, role-play, and combat part. Outside the game there is character upgrading (personal reading), discussion with DM (without group) and group strategy discussion (without DM). So the game has a few different components that may not require all people to participate at all times. (This is important when we consider designing our own long-lasting RPG open-world games like such) Everyone respects the system and that makes it possible to be consistent even though some details might differ. Also it looks it's fairly important that all players are of the same character level for the gameplay to be smooth, for otherwise time share can be unequal and that will create unbalanced game experience if some people were to make lots of decisions in each turn and turnaround speed is not as fast. Real-time games, however, generally don't suffer from this limit.
+
+The combat was surprisingly intense for you have lots of options and given the short span of time and N people waiting in turn, one needs to make decision in fair amount of time. And that creates good tense for the game.
