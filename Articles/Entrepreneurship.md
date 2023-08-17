@@ -9,6 +9,11 @@ Updated: 2023-08-09
 
 Some of those are collected from personal notes; Others might be unique per this article.
 
+## Games
+
+* MOSFET:SETI: For poor kinds like me who can't afford the space and money for electronics studies and when university education is kind of shitty and absolutely inadequate.
+* RoboGo: Test the limit of modern real-time combat.
+
 ## Productivity
 
 * (2023) Markdown should really support: 1) Pop-up/Embedded multi-line payloads, 2) Images, and multimedia contents. This is for self-contained management.
