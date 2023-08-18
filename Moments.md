@@ -86,3 +86,11 @@ Tags: Deeper Feelings
 我都不需要选，因为我在另一个世界中已经喜欢两个你。
 
 (Remark) You always have a spot in my heart.
+
+## 20230818
+
+### Moral Critique on AI Generated Content
+
+What's so wrong about AI generated content is not the content is wrong - in fact, the contents are pretty good already and likely can become even better in the future. It's certainly better than some novice creators/writers/painters (e.g. kids).
+
+What's really wrong is the lack of process - imagine everyone lives in a fully automated world and no one is doing anything. Replacing actual workers with AI TO SAVE MONEY while those workers end up having no job is what is wrong about this world (though argubly it's also partly those workers' fault, but then we can always blame everyone on an individual, on the society for everything is a social construct, or on the decision maker). When a company like Microsoft replaces its journalist and asks an AI to generate news articles, it's making a moral mistake, not a technical one. Reading and enjoying an article, or a painting, or a game, is as much about the creative process behind it as it's about the content itself.
