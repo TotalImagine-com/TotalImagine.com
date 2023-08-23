@@ -149,6 +149,19 @@ Functional and specialized.
 
 <iframe src="https://itch.io/embed/1263446?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/ue5-third-person-dedicatedserver-testpackage">UE5 Third Person DedicatedServer TestPackage by Charles Zhang</a></iframe>
 
+### Favorite Articles
+
+As a civilization we build our knowledge based on people before us. This sections contain things not of my original creation, but I think is ground-breaking and worth sharing. Here I post links of to those articles:
+
+Computing:
+
+* [Toward a formal theory for computing machines made out of whatever physics offers by Herbert Jaeger, Beatriz Noheda & Wilfred G. van der Wiel](https://www.nature.com/articles/s41467-023-40533-1) (PENDING REVIEW ARTICLE)
+
+Procedural Generation:
+
+* [Cyclic Symmetric Multi-Scale Turing Patterns by Jonathan McCabe](http://www.jonathanmccabe.com/), see [(2018) Turing Pattern](./Articles/TuringPattern)
+* Minecraft noise generation (PENDING)
+
 ## Links🔗
 
 🐫Specialty: <a href="https://files.totalimagine.com/redream.html">Redream (Old)</a>, <a href="Redream">Redream (New)</a>
@@ -177,5 +190,6 @@ Functional and specialized.
 * 20221210: (Article) Create placeholder for [Knowledge Markdown](./Articles/KnowledgeMarkdown).
 * 20230702: (Appearance) Change theme.
 * 20230801: (Appearance) Update front page; Clean up and visual formatting.
+* 20230823: (Organization) Add section on "Favorite Articles"
 
 Copyright © 2018-2023 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
