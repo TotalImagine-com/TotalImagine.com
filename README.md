@@ -40,6 +40,7 @@ There are a few things that I've always wanted to work on but never had a chance
 
 &emsp;>> <a href="WIP">WIP</a>: Highlights of "Work-in-progress" <br/>
 &emsp;>> <a href="Articles/Matrix">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
+&emsp;>> <a href="https://github.com/Pure-The-Language">Pure</a>: A C# based scripting environment <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE/">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
 &emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
