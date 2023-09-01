@@ -66,6 +66,10 @@ For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">b
 
 * (Idea) Motion-tracked 3D environment - looking through a screen. It's like VR but NOT VR and I assert the feeling is even more amazing. Pending dedicated write-up on my plan using OAK-D-Lite. Can be developed into a machine-learning (computer graphics) project.
 
+**Utility Programs**
+
+* "Lightening" Browser: lightweight zero shit browser with proper bookmark management using tags and backed as a MARKDOWN file.
+
 ***Games***
 
 * Deep Dive The Game (Shelved): PENDING MORE DETAILS (Pending visionary write-up).
@@ -135,15 +139,15 @@ Small utilities or fun stuff. (Might also share some useful Pure/Python scripts 
 
 <iframe src="https://itch.io/embed/532776?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/lan-test">LAN Test Utility by Charles Zhang</a></iframe>
 
+<iframe src="https://itch.io/embed/752678?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/pdf-apprentice">PDF Apprentice by Charles Zhang</a></iframe>
+
+<iframe src="https://itch.io/embed/729764?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/video-tagnote-player">Video Tag/Note Player by Charles Zhang</a></iframe>
+
 ### Software
 
 Functional and specialized.
 
 <iframe src="https://itch.io/embed/730102?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/dream-editor">Dream Editor V0.9 by Charles Zhang</a></iframe>
-
-<iframe src="https://itch.io/embed/752678?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/pdf-apprentice">PDF Apprentice by Charles Zhang</a></iframe>
-
-<iframe src="https://itch.io/embed/729764?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/video-tagnote-player">Video Tag/Note Player by Charles Zhang</a></iframe>
 
 ### Resources
 
