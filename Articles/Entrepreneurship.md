@@ -7,7 +7,7 @@ Updated: 2023-08-09
 
 <!-- PENDING CONSOLIDATING WITH MY.ALL PERSONAL NOTES; PENDING CONSOLIDATING WITH TELEGRAM ENTREPRENEURSHIP CHAT GROUP IDEAS; CONSIDER PUTTING ON GITHUB/GIST FOR EASIER MODIFICATIONS. -->
 
-Some of those are collected from personal notes; Others might be unique per this article.
+Some of those are collected from personal notes; Others might be unique per this article. Anyone is free to take those ideas; Attributions are welcome.
 
 ## Games
 
@@ -24,6 +24,8 @@ Some of those are collected from personal notes; Others might be unique per this
 ## Programs
 
 ## Hardware
+
+* (2023) Recorder with basic editing and on-demand usage functionalities: One will be surprised how barren this market (in terms of supply?) is, and existing mobile apps just doesn't justify the needs. A proper recorder should be able to: 1) Run on demand, 2) Allow insertion, 3) Allow deletion. And ideally those are achieved with physical buttons. I don't see the need for wifi support, but being able to write directly to SD cards is a must.
 
 ## Non-Centralized Applications
 
