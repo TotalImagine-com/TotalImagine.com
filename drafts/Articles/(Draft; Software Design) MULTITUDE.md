@@ -45,7 +45,7 @@ Problems:
 2. Tools are not standalone problems that can be utilized for other purposes e.g. graph editor -- make those tools stand along so we can use them when needed
 3. The Home structure is not compatible tiwht existing file system, which can be useful from tiem to time -- well utilize Everything and other methods to work with existing folder structure, along with out tag structure; If files are changed outside the application, we shall give options to update links
 4. Don't read or even touch contents of files all at a time to avoid data lose -- require thorough logic check; Be very specific and explicit to users when and how contents are changed etc.
-5. FOr now we just need the node editor like scapple, with multilayerd/grouped nodes; And a tag system that hopefully extendes windows shell and works in the beckground keeping track of file changes.
+5. For now we just need the node editor like scapple, with multilayerd/grouped nodes; And a tag system that hopefully extendes windows shell and works in the beckground keeping track of file changes.
 
 Now, those issues are partly a design issue, but another important motivation for choosing to design it this way due to the consideration of a software component that was actually important since the very beginning of the project, which I will talk about next.
 
