@@ -9,6 +9,11 @@ Updated: 2023-08-09
 
 Some of those are collected from personal notes; Others might be unique per this article. Anyone is free to take those ideas; Attributions are welcome.
 
+## Entertainment
+
+* (2023) (Experience) The iPad Experience: Dark room LiDAR, Aquarium, mystical jungle, haunted house treasure hunt.
+* (2023) (Virtual Tour Service) (Empty Industry Room) Virtual AR/VR Tour: Just need a large walkable space - but Is this kind of pixel streaming better than VR?
+
 ## Games
 
 * MOSFET:SETI: For poor kinds like me who can't afford the space and money for electronics studies and when university education is kind of shitty and absolutely inadequate.
@@ -26,6 +31,7 @@ Some of those are collected from personal notes; Others might be unique per this
 ## Hardware
 
 * (2023) Recorder with basic editing and on-demand usage functionalities: One will be surprised how barren this market (in terms of supply?) is, and existing mobile apps just doesn't justify the needs. A proper recorder should be able to: 1) Run on demand, 2) Allow insertion, 3) Allow deletion. And ideally those are achieved with physical buttons. I don't see the need for wifi support, but being able to write directly to SD cards is a must.
+* (2022, 2023) Precise Head Position Tracking for AR: May use base stations.
 
 ## Non-Centralized Applications
 
