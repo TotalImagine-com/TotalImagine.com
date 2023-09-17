@@ -18,6 +18,7 @@ Some of those are collected from personal notes; Others might be unique per this
 
 * MOSFET:SETI: For poor kinds like me who can't afford the space and money for electronics studies and when university education is kind of shitty and absolutely inadequate.
 * RoboGo: Test the limit of modern real-time combat.
+* Dream of Red Chamber (a re-interpretation) (not an original recreation of plots): 红楼梦Gal game攻略妹妹 (idea from) Mentioned a few times by Ashley, and I think it's a cool idea. As a simple starter, it could be a 2D visual novel-like, or even a traditional non-novel hentai 恋爱 game.
 
 ## Productivity
 
