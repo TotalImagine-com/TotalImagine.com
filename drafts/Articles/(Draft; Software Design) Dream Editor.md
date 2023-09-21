@@ -1,5 +1,7 @@
 # (Software Design) Dream Editor
 
+(Project date: Mar 2015 - Oct 2016)
+
 Oh, dream, sweet dreams.
 
 People say **Pieces♓** people like to imagine, I don't know whether it's always true, but it certainly applies to me - when I think about it, most of the time I was not occupied with something, I was doing my own project or imagininhnloving in a different world.. ... We on the other hand, are of course aware that as per [Wikipedia page](#) it's defined as a pseudoscience - but no one actually believes it, it's more of the sincere wishes we have associated with our own 微不足道的 lives with stellar objects....
