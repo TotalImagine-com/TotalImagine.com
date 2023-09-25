@@ -59,6 +59,13 @@ Some of those are collected from personal notes; Others might be unique per this
 
 * (2023) On the problem of mating: [Github](https://github.com/SeekingMate)
 
+## Personal Business Endavours
+
+Personal because it's personal and only I can do it.
+
+* (Magazine) The Project Nine Magazine (Entertainment Industry): Magazine with a vision.
+* (Technology) Dreamscape (Technology Industry): Dreamscape with a vision.
+
 ## Dated
 
 ### 20230802 Multi-layer Graph
