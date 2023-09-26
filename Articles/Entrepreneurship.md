@@ -13,6 +13,7 @@ Some of those are collected from personal notes; Others might be unique per this
 
 * (2023) (Experience) The iPad Experience: Dark room LiDAR, Aquarium, mystical jungle, haunted house treasure hunt.
 * (2023) (Virtual Tour Service) (Empty Industry Room) Virtual AR/VR Tour: Just need a large walkable space - but Is this kind of pixel streaming better than VR?
+* (2023) (Virtual Tour Service) Basically you pay money and let others travel for you. There are two forms: 1-1 travel where you can dictate and save yourself the travel to fly; Virtual Tour, but 给钱，让人去旅游。That's the fun.
 
 ## Games
 
