@@ -49,6 +49,7 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Online Services
 
+* (2021/2022) iAvatar: Fashion, and virtual character and having luxury presentation. Partly inspired by Mopcat/catface or whatever UofT makeup idea by signal and processing professor.
 * (2023) Anonymous Free Social Online Surveys (with demographical identification information upon registration) for social studies, personal FAQ, and market research. The website should be something like Stackoverflows and be easily accessible and free-to-use, and offers among other things most importantly: registration and personal social identity information editing, survey publication and editing, interest editing, and participated surveys page. A person can see survey results after participation. Any new survey should ideally do a search to avoid repeating the same kind of questions. Each survey is versioned and new edits must record new polls and cannot directly inherit older polls. No comments shall be provided, but survey publisher can describe survey goals and purpose.
 
 ## Solution
