@@ -35,9 +35,13 @@ If you are talented or resourceful and looking for inspiration, consult my <a hr
 <strong>[Image] 引力作用下两颗行星的擦肩而过 (Simulation) Paths of planets under the influence of gravitational pull</strong>
 <p>Read more at: <a href="Articles/Matrix#20220822">The Matrix - Dev Log</a></p>
 
+<video width="760" height="570" controls>
+  <source src="https://videos.totalimagine.com/ProjectNine/20230923ProjectReboundIrregularOrbit.mp4" type="video/mp4">
+</video>
+
 ## Main Projects🌉
 
-There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, MULTITUDE, [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), Parcel, and Formless. Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
+There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, [MULTITUDE](https://github.com/chaojian-zhang/MULTITUDE), [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), [Parcel](https://github.com/Charles-Zhang-Parcel), and [Formless](https://chaojian-zhang.github.io/FormlessProgramming/). Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
 &emsp;>> <a href="WIP">WIP</a>: Highlights of "Work-in-progress" <br/>
 &emsp;>> <a href="Articles/Matrix">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
@@ -88,12 +92,12 @@ Some things are yet to get more serious!😠
 &emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
 &emsp;>> <a href="Articles">Articles</a> <br/>
 &emsp;>> <a href="Blogs">Blogs</a> <br/>
-&emsp;>> <a href="Books">Books (PENDING)</a> <br/>
+&emsp;>> <a href="#books">Books (PENDING)</a> <br/>
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
 &emsp;>> <a href="Reviews">Reviews</a> <br/>
-&emsp;>> <a href="University">University Design Projects (PENDING)</a> <br/>
+&emsp;>> <a href="#University">University Design Projects (PENDING)</a> <br/>
 
 ### Animations
 
@@ -117,7 +121,7 @@ Cool, fully-finished/half-finished/experimental projects.
 
 * [Romance](https://www.bilibili.com/video/BV15W411E7mY/)
 
-#### Parcel
+### Parcel
 
 Tags: Software, Workflow, Business Automation, Data Analytics
 
@@ -137,13 +141,19 @@ Original.
 
 Small utilities or fun stuff. (Might also share some useful Pure/Python scripts in the future.)
 
-<iframe src="https://itch.io/embed/730091?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/turing-engine">Turing Engine by Charles Zhang</a></iframe>
+<iframe src="https://itch.io/embed/730091?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/turing-pattern">Turing Engine by Charles Zhang</a></iframe>
 
 <iframe src="https://itch.io/embed/532776?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/lan-test">LAN Test Utility by Charles Zhang</a></iframe>
 
 <iframe src="https://itch.io/embed/752678?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/pdf-apprentice">PDF Apprentice by Charles Zhang</a></iframe>
 
 <iframe src="https://itch.io/embed/729764?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/video-tagnote-player">Video Tag/Note Player by Charles Zhang</a></iframe>
+
+### Toy Programs
+
+https://github.com/Charles-Zhang-Project-Nine-Experiments/MultiFractalTerrain
+
+<iframe src="https://itch.io/embed/2309525?linkback=true" width="552" height="167" frameborder="0" ><a href="https://charles-zhang.itch.io/fluent-synth">Fluent Synth (Programmable) by Charles Zhang</a></iframe>
 
 ### Software
 
