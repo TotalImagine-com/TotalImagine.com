@@ -90,9 +90,9 @@ Some things are yet to get more serious!😠
 
 &emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
 &emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
-&emsp;>> <a href="Articles">Articles</a> <br/>
+&emsp;>> <a href="#Articles">Articles</a> <br/>
 &emsp;>> <a href="Blogs">Blogs</a> <br/>
-&emsp;>> <a href="#books">Books (PENDING)</a> <br/>
+&emsp;>> <a href="#Books">Books (PENDING)</a> <br/>
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
@@ -108,6 +108,15 @@ Some things are yet to get more serious!😠
 * [(2018) Turing Pattern](./Articles/TuringPattern)
 * [(2019) PEY Co-op Final Report](https://files.totalimagine.com/PDF/2019PEYFinalReport.pdf)
 * [(2020) Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf)
+* [(2022) Emily & James](./Articles/EmilyAndJames)
+
+Misc.:
+
+* [Entrepreneurship](./Articles/Entrepreneurship)
+* [KnowledgeMarkdown](./Articles/KnowledgeMarkdown)
+* [Matrix](./Articles/Matrix)
+* [My Long Hair Experience](./Articles/MyLongHairExperience)
+* [Turing Pattern](./Articles/TuringPattern)
 
 ### Books
 
@@ -116,6 +125,8 @@ Some things are yet to get more serious!😠
 ### Concepts
 
 Cool, fully-finished/half-finished/experimental projects.
+
+(PENDING)
 
 ### Short Film
 
@@ -133,7 +144,7 @@ Link: <a href="https://github.com/Charles-Zhang-Parcel"><i class="fa-brands fa-g
 
 Original.
 
-(Old: Flash, Action Game)
+(PENIDNG ADDING Old: Flash, Action Game)
 
 <iframe src="https://itch.io/embed/723030?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/domino">Domino 3D by Charles Zhang</a></iframe>
 
@@ -151,7 +162,7 @@ Small utilities or fun stuff. (Might also share some useful Pure/Python scripts 
 
 ### Toy Programs
 
-https://github.com/Charles-Zhang-Project-Nine-Experiments/MultiFractalTerrain
+<a href="https://github.com/Charles-Zhang-Project-Nine-Experiments/MultiFractalTerrain"><i class="fa-brands fa-github"></i> Multi Fractal Terrain</a>
 
 <iframe src="https://itch.io/embed/2309525?linkback=true" width="552" height="167" frameborder="0" ><a href="https://charles-zhang.itch.io/fluent-synth">Fluent Synth (Programmable) by Charles Zhang</a></iframe>
 
@@ -160,6 +171,8 @@ https://github.com/Charles-Zhang-Project-Nine-Experiments/MultiFractalTerrain
 Functional and specialized.
 
 <iframe src="https://itch.io/embed/730102?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/dream-editor">Dream Editor V0.9 by Charles Zhang</a></iframe>
+
+<iframe src="https://itch.io/embed/758792?linkback=true" width="552" height="167" frameborder="0" ><a href="https://charles-zhang.itch.io/somewhere">Somewhere - Tag Based File Management by Charles Zhang</a></iframe>
 
 ### Resources
 
