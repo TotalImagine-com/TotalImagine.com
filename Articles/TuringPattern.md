@@ -54,3 +54,22 @@ From basic synthesized images, feeling awe-struck by [Ling Dong](https://github.
 
 <img alt="Turing Pattern" max-height="512" src="https://images.totalimagine.com/turing-pattern.png"/>
 <img alt="Compound Visual" max-height="512" src="https://images.totalimagine.com/turing-pattern-compound-visual.png"/>
+
+## Discussion
+
+<script src="https://giscus.app/client.js"
+        data-repo="TotalImagine-com/TotalImagine.com"
+        data-repo-id="R_kgDOH2l9mg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOH2l9ms4CQ8MR"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

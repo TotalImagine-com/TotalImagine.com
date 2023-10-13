@@ -20,7 +20,8 @@ img {
 <script src="https://kit.fontawesome.com/9f2cdb261e.js" crossorigin="anonymous"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>
+Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>  
+Discuss about this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
 (Been busy these days, will update the website soon!)
 
@@ -196,5 +197,6 @@ Procedural Generation:
 * 20230702: (Appearance) Change theme.
 * 20230801: (Appearance) Update front page; Clean up and visual formatting.
 * 20230823: (Organization) Add section on "Favorite Articles"
+* 20231013: (Remark) Will stop updating this for trivialities. Viewers are welcome to read [commit history](https://github.com/TotalImagine-com/TotalImagine.com/commits/main) for more details.
 
 Copyright © 2018-2023 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
