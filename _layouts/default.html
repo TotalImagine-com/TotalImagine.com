@@ -10,6 +10,15 @@
     {% include head-custom.html %}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.5.0/mermaid.min.js"></script>
+    <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            tex2jax: {
+              skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+              inlineMath: [['$','$']]
+            }
+          });
+      </script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
