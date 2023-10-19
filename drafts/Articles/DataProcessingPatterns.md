@@ -7,6 +7,7 @@ Tags: Programming, Design Pattern, Workflow
 In summary: 1) Provide core reusable logic as small functions; 2) Implement each variant as monolithic processing class, dated, with revision number; 3) Optionally adapt template pattern if enough varying instances are gathered and the pipeline contains clear stages, in which case we may use overrides instead of full monolithic classes.
 
 Alternatively, core logic may be developed as library module, and use scripts as interface to drive parameter changes, e.g. in the Pure environment.
+Generally, when designing libraries, especially for C#/Pure, the goal is to objectify entities for easier in-code manipulation e.g. through LINQ, aka. avoid using data frames or tables as in-memory storage format; Data frames shall only be used during reading and writing.
 
 ## Content
 
