@@ -259,14 +259,21 @@ Source: [Github](https://github.com/TotalImagine-com/TotalImagine.com/blob/main/
   </g>
 </svg>
 
-This demo serves as an "attraction" to persuade people they should use Markdown instead of Microsoft Doc for note taking. It's rendered using Github Pages (Jekyll) with [Mermaid](https://github.com/TotalImagine-com/TotalImagine.com/commit/035a2731e5d3c12e21c03e8beb0bbde0391d9715) from Markdown. The additional support for Javascript (mostly for [Neko](https://webneko.net)).
+This demo serves as an "attraction" to persuade people they should use Markdown instead of Microsoft Doc for note taking. It's rendered using Github Pages (Jekyll) with [Mermaid](https://github.com/TotalImagine-com/TotalImagine.com/commit/035a2731e5d3c12e21c03e8beb0bbde0391d9715) for Markdown. The additional support for Javascript (mostly for [Neko](https://webneko.net)) is optional and only for fun.
 
-It uses a gew notable features:
+It uses a few notable features:
 
 1. Github flavoured markdown
-2. Mermaid
-3. SVG (for animation)
-4. Some HTML and CSS
+2. Mermaid diagrams
+3. SVG (for animation and shapes)
+4. Some HTML and CSS for additional styling
+5. Use LaTex for equation rendering
+
+TODO:
+
+- [x] Basic demo setup
+- [ ] Fix typos of texts
+- [ ] Add more descriptive examples and show syntax of Markdown
 
 ## Why You Should Use Markdown
 
