@@ -42,15 +42,19 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## YouTube Video Production Series
 
-(Below is from laptop MISSION PHEONIX, we likely forget to commit from PC PROMISE)
-* Emily & James
-* Studying Unreal Engine Source Code
+* Emily & James: Dedicated animation shots.
+* Studying Unreal Engine Source Code: Just official documentation and official source code, digging through walkthrough - something I wanted existed when learning for myself.
+* World Build for Project Nine: Talk about specific aspects from technical, theoratical and how-to-with-tools perspectives. Sharing and consolidation of knowledge.
 * Studying PyTorch Source Code: Always wanted to write deep learning, also review math.
 
 ## Online Services
 
 * (2021/2022) iAvatar: Fashion, and virtual character and having luxury presentation. Partly inspired by Mopcat/catface or whatever UofT makeup idea by signal and processing professor.
 * (2023) Anonymous Free Social Online Surveys (with demographical identification information upon registration) for social studies, personal FAQ, and market research. The website should be something like Stackoverflows and be easily accessible and free-to-use, and offers among other things most importantly: registration and personal social identity information editing, survey publication and editing, interest editing, and participated surveys page. A person can see survey results after participation. Any new survey should ideally do a search to avoid repeating the same kind of questions. Each survey is versioned and new edits must record new polls and cannot directly inherit older polls. No comments shall be provided, but survey publisher can describe survey goals and purpose.
+
+## Productivity
+
+* (2022, 2023) A new file format that can be previewed in windows and most importantly - supports rich metadata and notes and tags. To implement it on windows is fairly easy, we can just create a specialized ZIP that contains an image file and a text file or some other stuff, and most importantly, write a proper Win32 Shell extension to allow previewing the image itself, and add to properties that allows reading and editing the metadata (or we could develop external tools for managing that). Alternatively, we figure out how realiable is DigiKam (at the moment we don't like it because it's monolithic and configuration is a bit confusing and I don't know how reliable it is in associating data with files, especially when we edit photos in Windows Explorer; And the interface is a bit hard to use when editing tags and notes). Alternatively, we could enhance [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) to allow it tracking file changes properly, like DigiKam or Everything does.
 
 ## Solution
 
