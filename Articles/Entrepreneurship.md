@@ -37,8 +37,8 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Non-Centralized Applications
 
-* Ethereum Lottery: Real-world lotteries are not trustworthy. Programmed in [Solidity](https://github.com/ethereum/solidity), participants are guaranteed a transparent process. No one is there to take our winning money as tax. Idea courtesy of Shawn Li.
-* Ethereum Central Ledger: When implemented, it can serve as a fund for apps like [SeekingMate](https://github.com/SeekingMate).
+* Ethereum Lottery: Decentralized blockchain-based lottery. Real-world lotteries are not trustworthy. Programmed in [Solidity](https://github.com/ethereum/solidity), participants are guaranteed a transparent process. No one is there to take our winning money as tax. Idea courtesy of Shawn Li.
+* Ethereum Central Ledger (Fund): When implemented, it can serve as a fund for apps like [SeekingMate](https://github.com/SeekingMate).
 
 ## YouTube Video Production Series
 

@@ -28,6 +28,7 @@ Below are the biases we identify:
 6. (From external source, pending review) Negativity bias: PENDING. the tendency for us to focus or dwell on negative experiences. Something very positive will generally have less of an impact on a person’s behavior than something equally emotional but negative. 
 7. (From external source, pending review) Confirmation bias: PENDING.
 8. Race bias: If one never heard shit talk against any race praise talk for any race, then one won't have race bias. Or one simply need to postpone making "observations" or generalization on races.
+9. I Bias: We should all write i in lower case instead of upper case.
 
 After identifying the bias, we can work around it using a few techniques:
 
