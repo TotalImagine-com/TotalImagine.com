@@ -21,7 +21,7 @@ img {
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>  
-Discuss about this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
+Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
 (Been busy these days, will update the website soon!)
 
