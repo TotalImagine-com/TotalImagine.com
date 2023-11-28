@@ -96,7 +96,7 @@ Some things are yet to get more serious!😠
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
-&emsp;>> <a href="Reviews">Reviews</a> <br/>
+&emsp;>> <a href="#Reviews">Reviews</a> <br/>
 &emsp;>> <a href="#University">University Design Projects (PENDING)</a> <br/>
 
 ### Animations
@@ -134,6 +134,17 @@ Blogs (随想) are like vlogs or weChat moments - it's momental, it's 随想, it
 Cool, fully-finished/half-finished/experimental projects.
 
 (PENDING)
+
+### Reviews
+
+Movie, novel, software, TV reviews and collections. Include: Experience, ranking, excerpts, collections (vocabulary, literacy, scene, sound, etc.).
+
+We do not use an existing well-known platform like Douban because we want full programmable data control and couldn't care less being discoverable by others. Those reviews mostly serve personal interest, serving reference and inspirational rambling and thorough review for the purpose of it, and only occassionally share ideas.
+
+* [Movies](./Reviews/Movies)
+* [Movies](./Reviews/Novels)
+* [Movies](./Reviews/Software)
+* [Movies](./Reviews/TV)
 
 ### Short Film
 
