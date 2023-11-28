@@ -91,7 +91,7 @@ Some things are yet to get more serious!😠
 &emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
 &emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
 &emsp;>> <a href="#Articles">Articles</a> <br/>
-&emsp;>> <a href="Blogs">Blogs</a> <br/>
+&emsp;>> <a href="#Blogs">Blogs</a> <br/>
 &emsp;>> <a href="#Books">Books (PENDING)</a> <br/>
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
@@ -117,6 +117,13 @@ Misc.:
 * [Matrix](./Articles/Matrix)
 * [My Long Hair Experience](./Articles/MyLongHairExperience)
 * [Turing Pattern](./Articles/TuringPattern)
+
+### Blogs
+
+Blogs (随想) are like vlogs or weChat moments - it's momental, it's 随想, it's blumbing, but here we try to be more articulated (on the literature level).
+
+* [2019-07-23](./Blogs/20190723)
+* [2022-08-20](./Blogs/20220820)
 
 ### Books
 
