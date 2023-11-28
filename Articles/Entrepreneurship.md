@@ -34,6 +34,7 @@ Some of those are collected from personal notes; Others might be unique per this
 
 * (2023) Recorder with basic editing and on-demand usage functionalities: One will be surprised how barren this market (in terms of supply?) is, and existing mobile apps just doesn't justify the needs. A proper recorder should be able to: 1) Run on demand, 2) Allow insertion, 3) Allow deletion. And ideally those are achieved with physical buttons. I don't see the need for wifi support, but being able to write directly to SD cards is a must.
 * (2022, 2023) Precise Head Position Tracking for AR: May use base stations.
+* (2023) HDMI recorder transmitter: some intermediary between a typical HDMI cable input and output, which can capture streams in betwee, bypass all hardware/software limitations when doing video capturing and consumes no hosting machine resources. I am surprised modern monitors don't provide this functionality already. (Comment) There are external or either on-board "recorder card" or capture card devices.
 
 ## Non-Centralized Applications
 
