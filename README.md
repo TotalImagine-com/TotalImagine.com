@@ -90,14 +90,14 @@ Some things are yet to get more serious!😠
 
 &emsp;>> <a href="AIArts">Arts</a> and <a href="Illustrations">Illustrations</a> <br/>
 &emsp;>> <a href="Applications">Applications (PENDING)</a> <br/>
-&emsp;>> <a href="#Articles">Articles</a> <br/>
-&emsp;>> <a href="#Blogs">Blogs</a> <br/>
-&emsp;>> <a href="#Books">Books (PENDING)</a> <br/>
+&emsp;>> <a href="#articles">Articles</a> <br/>
+&emsp;>> <a href="#blogs">Blogs</a> <br/>
+&emsp;>> <a href="#books">Books (PENDING)</a> <br/>
 &emsp;>> <a href="Galleries">Galleries</a> <br/>
 &emsp;>> <a href="Moments">Moment of Thought</a> <br/>
 &emsp;>> <a href="Photos">Photos</a> <br/>
-&emsp;>> <a href="#Reviews">Reviews</a> <br/>
-&emsp;>> <a href="#University">University Design Projects (PENDING)</a> <br/>
+&emsp;>> <a href="#reviews">Reviews</a> <br/>
+&emsp;>> <a href="#university">University Design Projects (PENDING)</a> <br/>
 
 ### Animations
 
@@ -142,9 +142,9 @@ Movie, novel, software, TV reviews and collections. Include: Experience, ranking
 We do not use an existing well-known platform like Douban because we want full programmable data control and couldn't care less being discoverable by others. Those reviews mostly serve personal interest, serving reference and inspirational rambling and thorough review for the purpose of it, and only occassionally share ideas.
 
 * [Movies](./Reviews/Movies)
-* [Movies](./Reviews/Novels)
-* [Movies](./Reviews/Software)
-* [Movies](./Reviews/TV)
+* [Novels](./Reviews/Novels)
+* [Software](./Reviews/Software)
+* [TV](./Reviews/TV)
 
 ### Short Film
 
