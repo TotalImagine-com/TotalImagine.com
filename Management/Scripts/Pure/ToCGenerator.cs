@@ -5,6 +5,7 @@ Scans folder and generate MD summarizing contents of interest, producing flat li
 */
 
 Import(Humanizer)
+using System;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -31,6 +32,17 @@ void FormatLink(string file, string folderPath, out string fileName, out string 
     fileName = Path.GetFileNameWithoutExtension(file);
     string relativePath = Path.GetRelativePath(folderPath, file);
     relativeURL = Regex.Replace(relativePath.Replace('\\', '/'), @"\.md$", string.Empty);
+}
+
+if (Arguments.Length == 0)
+{
+    WriteLine("""
+    Not enough arguments.
+    
+    Usage:
+      pure ToCGenerator <FolderPath> <OutputName>
+    """);
+    Environment.Exit(0);
 }
 
 string folderPath = Path.GetFullPath(Arguments.First());
@@ -75,5 +87,6 @@ else
 
 string output = builder.ToString().Trim();
 string outputPath = Path.Combine(folderPath, outputName);
+WriteLine($"Writing to {outputPath}: ");
 WriteLine(output);
 File.WriteAllText(outputPath, output);
