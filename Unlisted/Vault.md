@@ -67,6 +67,10 @@ Main output platforms (for cloud accessibility):
 |-|-|
 |Sketchfab||
 |PlayCanvas||
+|YouTube (Personal)||
+|YouTube (Other Specific Channels)|For specific subjcts/themes/projects.|
+|ArtStation|Portfolio and finished gifs/screenshots and renders with links back to TotalImagine.com for detailed analysis.|
+|Vimeo|Portfolio and finished videos with links back to TotalImagine.com for detailed analysis; Used as professional profile of videos; Also for stuff like (intended video) P9 TYA; 主要无损用|
 
 Main playgrounds: (Might make a QGIS map with screenshots) (Acting Set 2023)
 
@@ -90,6 +94,10 @@ City...
 Out-of-town...
 Nature...
 Fantasy...
+
+## Props
+
+* Planets: Blenderkit
 
 ## Asset Topics
 
