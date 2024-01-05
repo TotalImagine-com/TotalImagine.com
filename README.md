@@ -20,6 +20,10 @@ img {
 <script src="https://kit.fontawesome.com/9f2cdb261e.js" crossorigin="anonymous"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
+> `determiner(X, Prop, Assn, exists(X, Prop and Assn)) --> [a].`
+
+*(About the quote: It's a DCG clause from the book "Prolog Programming for Artificial Intelligence" 4th Edition by Ivan Bratko - in section 23.3 "Defining the meaning of natural language": "The logical meaning of the tiny determiner 'a' may seem surprisingly complicated". Well, it only makes sense!)*
+
 Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>  
 Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
