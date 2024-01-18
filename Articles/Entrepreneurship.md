@@ -38,6 +38,7 @@ Some of those are collected from personal notes; Others might be unique per this
 * (2022, 2023) Precise Head Position Tracking for AR: May use base stations.
 * (2023) HDMI recorder transmitter: some intermediary between a typical HDMI cable input and output, which can capture streams in betwee, bypass all hardware/software limitations when doing video capturing and consumes no hosting machine resources. I am surprised modern monitors don't provide this functionality already. (Comment) There are external or either on-board "recorder card" or capture card devices.
 * (2024) Fast and cheap e-ink display: No need to have color, just be fast first. On the other hand, software support is also super imporpotant - like ReMarkable 2, for paper display, touch-centric, or pure-keyboard navigation rather than mouse-based navigation is the key.
+* (2024) E-zink Smart phone: Real, not toy functional. I needs to be smart because i want to use  telegram  on it. Protects eyes. Essential for suoer long term technical screen users like me. There are some chinese companies (DaSung and Boox) making those but their products are "functional" and don't last more than a year.
 
 ## Non-Centralized Applications
 
