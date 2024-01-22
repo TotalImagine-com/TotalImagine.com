@@ -30,6 +30,8 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Industries
 
+* (2022, 2024) Technical Analyst: There is frequent need for highly technical computing yet very high-level analytics at finance/investment industry. Excel and Python are usually the first choice. I intend to create a completely new role with [Parcel](https://github.com/Charles-Zhang-Parcel). One implementation of this is when I have my own investment firm, I can hire people developing Parcel, and hire people specializing in using it, and we sell/market Parcel ourselves.
+
 ## Programs
 
 ## Hardware
