@@ -22,6 +22,7 @@ Some of those are collected from personal notes; Others might be unique per this
 * RoboGo: Test the limit of modern real-time combat.
 * Dream of Red Chamber (a re-interpretation) (not an original recreation of plots): 红楼梦Gal game攻略妹妹 (idea from) Mentioned a few times by Ashley, and I think it's a cool idea. As a simple starter, it could be a 2D visual novel-like, or even a traditional non-novel hentai 恋爱 game.
 * (Company/Organization/Series Idea) SillyGames: Unoptimized Unreal Engine 5 Ray Tracing Games, published on Itch.IO (dedicated account or category): Per My3DVD, Experiments (series 1 with a few levels), Domino, ICTZombies, 东外校园卡丁车. "I don't have time for intricate contents and polished games, but I build fun stuff and open world nonetheless." <!--Play with simple mechanics, no scale, no plot, no story, no unnecessary complication, only fun.--> Always free.
+* (Game) 鱼缸管理、鱼缸simulation (Idea from, Source) Shawn from OTPP TFR 2022-2024. (comment) It concerns e.g. cutting grass, adjusting temperature, balance of NPL etc. chemical elements. (COmment) Ask Shawn to be gameplay director if we ever develop this.
 
 ## Productivity
 
