@@ -9,6 +9,13 @@ Updated: 2023-08-09
 
 Some of those are collected from personal notes; Others might be unique per this article. Anyone is free to take those ideas; Attributions are welcome.
 
+## Companies
+
+Some ideas are big and requires people to manage and maintain.
+
+* (2024) Methodox: Unconventional business solutions. (E.g. Parcel)
+* (2024) Imagine Nation: Unique businesses. (E.g. iAvatar)
+
 ## Entertainment
 
 * (2021) (YouTube series) Fake Gameplay videos and visions: kinda like those 2D game and sometimes 3D game ads we see - but instead of ads, it's just good visions. An unfinished example is World of Legends. Fun to do when we are not on schedule for Project Nine.
@@ -58,7 +65,7 @@ Some of those are collected from personal notes; Others might be unique per this
 
 ## Online Services
 
-* (2021/2022) iAvatar: Fashion, and virtual character and having luxury presentation. Partly inspired by Mopcat/catface or whatever UofT makeup idea by signal and processing professor.
+* (Game, Service, Platform, 2021/2022/2024) iAvatar: Fashion, and virtual character and having luxury presentation. Partly inspired by Mopcat/catface or whatever UofT makeup idea by signal and processing professor. (Comment, #2024) iAvatar can actually be a desktop application - less intrusive and online retailers just need to provide a protocol-based url. The desktop app would be a one-stop shopping experience like The Sims 3. In fact, call it a shopping game.
 * (2023) Anonymous Free Social Online Surveys (with demographical identification information upon registration) for social studies, personal FAQ, and market research. The website should be something like Stackoverflows and be easily accessible and free-to-use, and offers among other things most importantly: registration and personal social identity information editing, survey publication and editing, interest editing, and participated surveys page. A person can see survey results after participation. Any new survey should ideally do a search to avoid repeating the same kind of questions. Each survey is versioned and new edits must record new polls and cannot directly inherit older polls. No comments shall be provided, but survey publisher can describe survey goals and purpose.
 
 ## Productivity
