@@ -22,6 +22,7 @@ Some ideas are big and requires people to manage and maintain.
 * (2023) (Experience) The iPad Experience: Dark room LiDAR, Aquarium, mystical jungle, haunted house treasure hunt.
 * (2023) (Virtual Tour Service) (Empty Industry Room) Virtual AR/VR Tour: Just need a large walkable space - but Is this kind of pixel streaming better than VR?
 * (2023) (Virtual Tour Service) Basically you pay money and let others travel for you. There are two forms: 1-1 travel where you can dictate and save yourself the travel to fly; Virtual Tour, but 给钱，让人去旅游。That's the fun.
+* (2024) (YouTube Series) Movies Didn't Go According to Plan (and cut short) - (odea from) What is 那个电信诈骗的电影，在购物街拐卖的时候碰到个武功高手？Stories will be cut short因为坏人打不过他。拍摄特点：前面都基本是按照原片拍摄，但是在某一个环节（差不多过了30min之后）突然有变化。(Series, #20240208) 缅甸电信诈骗碰到武功高手。(Series, #20240208) 中国机长：前面30min的准备时间，然后总算飞了，结果突然有飞机横穿砍断，摄影机特效慢动作摄影一个非常镇定的年轻人在飞机断了一般的时候一边随着飞机的旋转摇摆，一边拿起氧气罩呼吸。
 
 ## Games
 
