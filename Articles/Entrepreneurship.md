@@ -81,7 +81,8 @@ Some ideas are big and requires people to manage and maintain.
 
 ## Software
 
-* (2019, 2022) Spreadsheet: Object-oriented, functional programmable spreadsheet application. Partly implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) - but we actually want a GUI interface that's much just like Excel. The core problem we try to solve is to enable named variables and named table ranges and enforce strongly-typed and safe references. For GUI framework, we should clearly use Qt.
+* (2019, 2022) Spreadsheet: Object-oriented, functional programmable spreadsheet application. Partly implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) - but we actually want a GUI interface that's much just like Excel<!--What about programmability?-->. The core problem we try to solve is to enable named variables and named table ranges and enforce strongly-typed and safe references. For GUI framework, we should clearly use Qt for efficiency and cross-platform portability.
+* (2019/2018, 2024) Social Media (Gravity, downgraded): Community Building on GIS scale - Map chat. (idea from) Waze Map has those interesting icons - that reminds me of the fun of such a map based social media platform. People can join channels and decide when where for how long they post information. The platform is just a map. It's like Twitter but with an (arbitrary, not necessarily GPS located) pin.
 
 ## Social Media
 
@@ -97,6 +98,10 @@ Personal because it's personal and only I can do it.
 
 * (Magazine) The Project Nine Magazine (Entertainment Industry): Magazine with a vision.
 * (Technology) Dreamscape (Technology Industry): Dreamscape with a vision.
+
+## Others
+
+* (慈善事业, #2024) Open Source Awards: Director Personal Pick & Community Pick. Only to non-organizational/foundational open source projects. Including categories as: Games, Software, Mobile App, Others, etc. (Idea from) BAR is so good it deserves an award.
 
 ## Dated
 
