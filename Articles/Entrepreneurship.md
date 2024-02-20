@@ -24,6 +24,10 @@ Some ideas are big and requires people to manage and maintain.
 * (2023) (Virtual Tour Service) Basically you pay money and let others travel for you. There are two forms: 1-1 travel where you can dictate and save yourself the travel to fly; Virtual Tour, but 给钱，让人去旅游。That's the fun.
 * (2024) (YouTube Series) Movies Didn't Go According to Plan (and cut short) - (odea from) What is 那个电信诈骗的电影，在购物街拐卖的时候碰到个武功高手？Stories will be cut short因为坏人打不过他。拍摄特点：前面都基本是按照原片拍摄，但是在某一个环节（差不多过了30min之后）突然有变化。(Series, #20240208) 缅甸电信诈骗碰到武功高手。(Series, #20240208) 中国机长：前面30min的准备时间，然后总算飞了，结果突然有飞机横穿砍断，摄影机特效慢动作摄影一个非常镇定的年轻人在飞机断了一般的时候一边随着飞机的旋转摇摆，一边拿起氧气罩呼吸。
 
+## Event
+
+* (Contest/Competition/Hackathon) BAR AI-only competition with Ray
+
 ## Games
 
 * MOSFET:SETI: For poor kinds like me who can't afford the space and money for electronics studies and when university education is kind of shitty and absolutely inadequate.
@@ -33,6 +37,8 @@ Some ideas are big and requires people to manage and maintain.
 * (Game) 鱼缸管理、鱼缸simulation (Idea from, Source) Shawn from OTPP TFR 2022-2024. (comment) It concerns e.g. cutting grass, adjusting temperature, balance of NPL etc. chemical elements. (COmment) Ask Shawn to be gameplay director if we ever develop this.
 * (Application, #Fun, Machine Learning) Pretend Worker (Imitation Device; Agent J): A program pretending to be a person, while actually getting some work done. May use generative AI for decision making. This is a more advanced version of Ray's [Precision Strike](https://github.com/DelinM/PrecisionStrike). Should be able to interact with Excel/VS Code and pretend to be writing code/crunching numbers. Should be written in C++ and have fine-controlled OS level input emulation capabilities. Should be visual driven (not API driven). Effectively, we can train an AI such that: given desktop recording (as visual outputs) and all keyboard and mouse inputs, predict next input action. Mau develop as a framework/pre-trained model, so the user can just turn it on fo 1hr and learn her own routines and the model will pick uo and generate customized behavior.
 * (Game Concept, Idea, Perception, Vision, 恍惚状态, #20240209) 大人小人小小人，3D小“公园”——Japanese town people living there (top-down God's view) Watching game: 天降之物 environment. Watching those small figures living and farming their life. 大人are players, 小人 are the characters, 小小人 are the little babies and kittens.
+* (2013, 2024) ICT Zombines
+* (2024) Recreate Ahhhhhhhhh, local and online multiplayer.
 
 ## Productivity
 
@@ -73,6 +79,10 @@ Some ideas are big and requires people to manage and maintain.
 ## Productivity
 
 * (2022, 2023) A new file format that can be previewed in windows and most importantly - supports rich metadata and notes and tags. To implement it on windows is fairly easy, we can just create a specialized ZIP that contains an image file and a text file or some other stuff, and most importantly, write a proper Win32 Shell extension to allow previewing the image itself, and add to properties that allows reading and editing the metadata (or we could develop external tools for managing that). Alternatively, we figure out how realiable is DigiKam (at the moment we don't like it because it's monolithic and configuration is a bit confusing and I don't know how reliable it is in associating data with files, especially when we edit photos in Windows Explorer; And the interface is a bit hard to use when editing tags and notes). Alternatively, we could enhance [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) to allow it tracking file changes properly, like DigiKam or Everything does.
+
+## Service
+
+* (Financial Data, 2024) Data source service
 
 ## Solution
 
