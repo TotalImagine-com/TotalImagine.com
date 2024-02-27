@@ -206,6 +206,15 @@ Functional and specialized.
 
 <iframe src="https://itch.io/embed/1263446?linkback=true" width="552" height="167" frameborder="0"><a href="https://charles-zhang.itch.io/ue5-third-person-dedicatedserver-testpackage">UE5 Third Person DedicatedServer TestPackage by Charles Zhang</a></iframe>
 
+#### Productivity Tools
+
+Don't forget to add to PATH😉!
+
+* [Pure](https://github.com/pure-the-Language/pure)
+* [Launcher](https://github.com/chaojian-zhang/Launcher)
+* [Calculator](https://github.com/chaojian-zhang/Calculator)
+* Parcel: PENDING
+
 ### Favorite Articles
 
 As a civilization we build our knowledge based on people before us. This sections contain things not of my original creation, but I think is ground-breaking and worth sharing. Here I post links of to those articles:
