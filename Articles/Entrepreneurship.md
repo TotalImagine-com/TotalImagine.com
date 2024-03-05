@@ -28,6 +28,10 @@ Some ideas are big and requires people to manage and maintain.
 
 * (Contest/Competition/Hackathon) BAR AI-only competition with Ray
 
+## Endeavour
+
+* (2015, 2018, 2024) (Education) Revolutionize higher level eduation by providing gaming education of advanced university level courses. e.g. Mooc, open university, uoft, MIT, and great courses plus. NFC style. Starting with MOSFET:SETI. Part of Project Nine initiatives.
+
 ## Games
 
 * MOSFET:SETI: For poor kinds like me who can't afford the space and money for electronics studies and when university education is kind of shitty and absolutely inadequate.
