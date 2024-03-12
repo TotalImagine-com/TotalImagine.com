@@ -116,6 +116,7 @@ Personal because it's personal and only I can do it.
 ## Others
 
 * (慈善事业, #2024) Open Source Awards: Director Personal Pick & Community Pick. Only to non-organizational/foundational open source projects. Including categories as: Games, Software, Mobile App, Others, etc. (Idea from) BAR is so good it deserves an award.
+* (实业) No-Retarded Real Estate Development: Develop a community housing area that is pretty and actually looks like some place people would want to live in. (Idea from) Modern Toronto suburbs are urban crawling that looks like shit and put too much division between people and have zero design and zero sense of community. Start with a central square, some stream of water, some markets, shareable farming lands. Make a 1 million dollar house actually worth 1 million - and not in terms of how large the building is.
 
 ## Dated
 
