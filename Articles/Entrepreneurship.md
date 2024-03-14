@@ -43,6 +43,7 @@ Some ideas are big and requires people to manage and maintain.
 * (Game Concept, Idea, Perception, Vision, 恍惚状态, #20240209) 大人小人小小人，3D小“公园”——Japanese town people living there (top-down God's view) Watching game: 天降之物 environment. Watching those small figures living and farming their life. 大人are players, 小人 are the characters, 小小人 are the little babies and kittens.
 * (2013, 2024) ICT Zombines
 * (2024) Recreate Ahhhhhhhhh, local and online multiplayer.
+* (2024) Conway's Game of Life - an RTS (Call it "Life Online" or something cool, with a long subtitle: "An Online Multiplayer RTS of Original Flavour Conway's Game of Life with a Real-time Twist and Cool battle Music): See Game of Life study notes.
 
 ## Productivity
 
