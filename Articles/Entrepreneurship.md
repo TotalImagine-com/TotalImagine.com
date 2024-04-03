@@ -32,6 +32,7 @@ Some ideas are big and requires people to manage and maintain.
 
 * (2015, 2018, 2024) (Education) Revolutionize higher level eduation by providing gaming education of advanced university level courses. e.g. Mooc, open university, uoft, MIT, and great courses plus. NFC style. Starting with MOSFET:SETI. Part of Project Nine initiatives.
 * (2024, Education) All inclusive, fully digital, full time high school curriculum with only 10 students and free for 3 years. I will design, program and guide through the entire process. Hire 10 engineers and develpeprs for contents and 4 additional helpers. Students only pay when at first full-time employment salary above 10W (inflation adjusted) 80% to our school for the first 3 years.
+* (2024) (#2024402) 汽车能跑800km比特斯拉长太多了。我们可以做个“开源免费零附加”的汽车，完全靠donation。
 
 ## Games
 
