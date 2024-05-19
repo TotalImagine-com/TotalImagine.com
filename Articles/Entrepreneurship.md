@@ -27,6 +27,7 @@ Some ideas are big and requires people to manage and maintain.
 ## Event
 
 * (Contest/Competition/Hackathon) BAR AI-only competition with Ray
+* (Entrepreneurship, 2024, #20240427) Major Virtual Tournament using AR headset: creates immersive.
 
 ## Endeavour
 
@@ -43,7 +44,7 @@ Some ideas are big and requires people to manage and maintain.
 * (Game) 鱼缸管理、鱼缸simulation (Idea from, Source) Shawn from OTPP TFR 2022-2024. (comment) It concerns e.g. cutting grass, adjusting temperature, balance of NPL etc. chemical elements. (COmment) Ask Shawn to be gameplay director if we ever develop this.
 * (Application, #Fun, Machine Learning) Pretend Worker (Imitation Device; Agent J): A program pretending to be a person, while actually getting some work done. May use generative AI for decision making. This is a more advanced version of Ray's [Precision Strike](https://github.com/DelinM/PrecisionStrike). Should be able to interact with Excel/VS Code and pretend to be writing code/crunching numbers. Should be written in C++ and have fine-controlled OS level input emulation capabilities. Should be visual driven (not API driven). Effectively, we can train an AI such that: given desktop recording (as visual outputs) and all keyboard and mouse inputs, predict next input action. Mau develop as a framework/pre-trained model, so the user can just turn it on fo 1hr and learn her own routines and the model will pick uo and generate customized behavior.
 * (Game Concept, Idea, Perception, Vision, 恍惚状态, #20240209) 大人小人小小人，3D小“公园”——Japanese town people living there (top-down God's view) Watching game: 天降之物 environment. Watching those small figures living and farming their life. 大人are players, 小人 are the characters, 小小人 are the little babies and kittens.
-* (2013, 2024) ICT Zombines
+* (2013, 2024) ICT Zombies
 * (2024) Recreate Ahhhhhhhhh, local and online multiplayer.
 * (2024) Conway's Game of Life - an RTS (Call it "Life Online" or something cool, with a long subtitle: "An Online Multiplayer RTS of Original Flavour Conway's Game of Life with a Real-time Twist and Cool battle Music): See Game of Life study notes.
 * (2024, AR, Fiction, RPG) Everything has a spirit, from small to large items. Rediscover life, rediscover spirit. The game requires using AR/Photo device to capture photos from real world, and using object identification to find the subject object at center of the photo - and like 小精灵图鉴, collect the spirit behind it. It's a purely informative game - lots and lots of spirits to discover, with meaningful mapping of underlying objects. The game may require network connection, both for GPS verification and maybe for object identification. Legendary real world building e.g. Japanese shrines may have special spirits in them. The scanning of the same object should reveal the same spirit (and won't have any effect if already collected) - but depending on time of day, different spirits might reside there. After technology part is done, it's a purely content/information driven game. It's 3D RPG monster collection game, tradable. Key technology is requiring capture in-site. The monsters may then be used in PvP battles to level up. This is just like Pokemon Go, or Pokemon world MMORPG but with our own twist and is based on world history. Battles can happen online - no need to be geo-located. (idea from) Monster Legend ios game advertisement.
@@ -76,20 +77,22 @@ Some ideas are big and requires people to manage and maintain.
 ## Others
 
 * (慈善事业, #2024) Open Source Awards: Director Personal Pick & Community Pick. Only to non-organizational/foundational open source projects. Including categories as: Games, Software, Mobile App, Others, etc. (Idea from) BAR is so good it deserves an award.
-* (实业) No-Retarded Real Estate Development: Develop a community housing area that is pretty and actually looks like some place people would want to live in. (Idea from) Modern Toronto suburbs are urban crawling that looks like shit and put too much division between people and have zero design and zero sense of community. Start with a central square, some stream of water, some markets, shareable farming lands. Make a 1 million dollar house actually worth 1 million - and not in terms of how large the building is.
+* (实业, 实体经济) No-Retarded Real Estate Development: Develop a community housing area that is pretty and actually looks like some place people would want to live in. (Idea from) Modern Toronto suburbs are urban crawling that looks like shit and put too much division between people and have zero design and zero sense of community. Start with a central square, some stream of water, some markets, shareable farming lands. Make a 1 million dollar house actually worth 1 million - and not in terms of how large the building is.
+* (#20240514) 新型电动车和充电模式：（参考国产品牌“未来”）电车直接换电池。中国有未来这个品牌。电池也不用买断，可以月租。
 
-## Personal Business Endavours
+## Personal Business Enamours
 
 Personal because it's personal and only I can do it.
 
 * (Magazine) The Project Nine Magazine (Entertainment Industry): Magazine with a vision.
 * (Technology) Dreamscape (Technology Industry): Dreamscape with a vision.
+* (Entrepreneurship) The Personal Information Publication Project: The modern world has this insane protectiveness against such personal information. I think it makes sense for organizations to protect client information (which some companies are not doing well). But as individuals, we should be as public as possible. There are many benefits. The only information we need to censor is the ones that could cause direct harassment. In this project, I will publish all personal information: medical, financial, and planning - periodically first while a connected system is being build, then I will also open a Q&A portal for 1 Question-1 Answer (where questions could be requested to be answered again at a later occurrence).
 
 ## Productivity
 
-* (2022, 2023) A new file format that can be previewed in windows and most importantly - supports rich metadata and notes and tags. To implement it on windows is fairly easy, we can just create a specialized ZIP that contains an image file and a text file or some other stuff, and most importantly, write a proper Win32 Shell extension to allow previewing the image itself, and add to properties that allows reading and editing the metadata (or we could develop external tools for managing that). Alternatively, we figure out how realiable is DigiKam (at the moment we don't like it because it's monolithic and configuration is a bit confusing and I don't know how reliable it is in associating data with files, especially when we edit photos in Windows Explorer; And the interface is a bit hard to use when editing tags and notes). Alternatively, we could enhance [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) to allow it tracking file changes properly, like DigiKam or Everything does.
+* (2022, 2023) A new file format that can be previewed in windows and most importantly - supports rich metadata and notes and tags. To implement it on windows is fairly easy, we can just create a specialized ZIP that contains an image file and a text file or some other stuff, and most importantly, write a proper Win32 Shell extension to allow previewing the image itself, and add to properties that allows reading and editing the metadata (or we could develop external tools for managing that). Alternatively, we figure out how reliable is DigiKam (at the moment we don't like it because it's monolithic and configuration is a bit confusing and I don't know how reliable it is in associating data with files, especially when we edit photos in Windows Explorer; And the interface is a bit hard to use when editing tags and notes). Alternatively, we could enhance [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) to allow it tracking file changes properly, like DigiKam or Everything does.
 * (2023) Markdown should really support: 1) Pop-up/Embedded multi-line payloads, 2) Images, and multimedia contents. This is for self-contained management.
-* (2023) GitHub Pages needs better ways to managem multi-media, e.g. self-hosted images.
+* (2023) GitHub Pages needs better ways to manage multi-media, e.g. self-hosted images.
 
 ## Service
 
