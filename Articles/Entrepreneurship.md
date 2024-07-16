@@ -50,6 +50,8 @@ Some ideas are big and requires people to manage and maintain.
 * (2024, AR, Fiction, RPG) Everything has a spirit, from small to large items. Rediscover life, rediscover spirit. The game requires using AR/Photo device to capture photos from real world, and using object identification to find the subject object at center of the photo - and like 小精灵图鉴, collect the spirit behind it. It's a purely informative game - lots and lots of spirits to discover, with meaningful mapping of underlying objects. The game may require network connection, both for GPS verification and maybe for object identification. Legendary real world building e.g. Japanese shrines may have special spirits in them. The scanning of the same object should reveal the same spirit (and won't have any effect if already collected) - but depending on time of day, different spirits might reside there. After technology part is done, it's a purely content/information driven game. It's 3D RPG monster collection game, tradable. Key technology is requiring capture in-site. The monsters may then be used in PvP battles to level up. This is just like Pokemon Go, or Pokemon world MMORPG but with our own twist and is based on world history. Battles can happen online - no need to be geo-located. (idea from) Monster Legend ios game advertisement.
 * (2021, 2023, 2024) Gravity (Metaverse, social media, augmented virtual reality): See earlier concepts - like Kijiji but in 3D. On the other hand, a latest "mode" would be like "Atlas earth" (game): Monopoly style game, very simple - just declare location, and when people come they will pay a fee. Immediately real owners at sites will want to participate and declare their own locations; On the other hand, owners of a retailer location can put ads there. What's more, like Gravity, gradually this could be a massive social network. The biggest challenge today is GPS accuracy is low, prone to hacking, and mobile 3D rendering capabilities sucks and cannot deliver the intended vision unless we make it vendor locked (e.g. on iphone) but then it kinda defeats the purpose and defeats the accessibility.
 * (2022, 2024) Gamed-based language learning: walking-experience-like and detailed 3D environments.
+* (2022, 2024) That location based game. Group gathering use withbKong etc. Pending plot, design. Technology is major hurdle.
+* (2018, 2024) (AVR) VR Japanese: Learn language by walking around and pointing!
 
 ## Hardware
 
@@ -97,11 +99,22 @@ Personal because it's personal and only I can do it.
 ## Service
 
 * (Financial Data, 2024) Data source service
+* (2024, Service, Game, Social Media, 20240630) VR Travel: Pyramid. (As a social media we could add features like Bilibili - allowing people leaving "location"-tagged messages in the virtual enviroment). This could be either a (lightweight) mobile app (we can do it as pre-rendered 360 images like Riven), or a desktop game.
 
 ## Software
 
 * (2019, 2022) Spreadsheet: Object-oriented, functional programmable spreadsheet application. Partly implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) - but we actually want a GUI interface that's much just like Excel<!--What about programmability?-->. The core problem we try to solve is to enable named variables and named table ranges and enforce strongly-typed and safe references. For GUI framework, we should clearly use Qt for efficiency and cross-platform portability.
 * (2019/2018, 2024) Social Media (Gravity, downgraded): Community Building on GIS scale - Map chat. (idea from) Waze Map has those interesting icons - that reminds me of the fun of such a map based social media platform. People can join channels and decide when where for how long they post information. The platform is just a map. It's like Twitter but with an (arbitrary, not necessarily GPS located) pin.
+
+## Software/VR/Content
+
+* (2016, 2024) Full VR (Only) Modler and Layout Engine (Like Minecraft, or Godot, unlike Blender or anything else): first person walkable exepriecen. This is VERY technicallt challenging orneven impossiblenwith current technology/rendering efficiency.
+* (2024) VR Taichi/Dance: One dance/series per game. Full room scale with a single enviroment. Character model required (for in-game) matching.  Background just half-modeled environment (like Oculus Meta room), single character. Maybe offer playback options. Room size factor: 3x3m/5x5m. Single no annotation/speaking playvack, voice annotation, text annotation, etc.
+* (2024) Programming tutorialz but fully recorded in VR.
+
+## Mobile Apps
+
+* (2024, Development) Android doesn't have a functional Git/Github tool that can check out/clone things on Android (e.g. for Godot projects).
 
 ## Solution
 
