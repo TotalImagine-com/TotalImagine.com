@@ -103,6 +103,7 @@ Personal because it's personal and only I can do it.
 
 * (Financial Data, 2024) Data source service
 * (2024, Service, Game, Social Media, 20240630) VR Travel: Pyramid. (As a social media we could add features like Bilibili - allowing people leaving "location"-tagged messages in the virtual enviroment). This could be either a (lightweight) mobile app (we can do it as pre-rendered 360 images like Riven), or a desktop game.
+* (2024, App) Send Yourself! An IM/chat/social media like app exclusively for sending time-stamped message to ourselves, with each exporting. (Idea from, #20240831) We use Telegram exclusively for note-taking purpose and now the CEO is arrested god knows how reliable it is.
 
 ## Software
 
