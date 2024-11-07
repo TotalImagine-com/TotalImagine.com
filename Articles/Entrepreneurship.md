@@ -60,6 +60,7 @@ Some ideas are big and requires people to manage and maintain.
 * (2023) HDMI recorder transmitter: some intermediary between a typical HDMI cable input and output, which can capture streams in betwee, bypass all hardware/software limitations when doing video capturing and consumes no hosting machine resources. I am surprised modern monitors don't provide this functionality already. (Comment) There are external or either on-board "recorder card" or capture card devices.
 * (2024) Fast and cheap e-ink display: No need to have color, just be fast first. On the other hand, software support is also super imporpotant - like ReMarkable 2, for paper display, touch-centric, or pure-keyboard navigation rather than mouse-based navigation is the key.
 * (2024) E-zink Smart phone: Real, not toy functional. I needs to be smart because i want to use  telegram  on it. Protects eyes. Essential for suoer long term technical screen users like me. There are some chinese companies (DaSung and Boox) making those but their products are "functional" and don't last more than a year.
+* (2024) Desktop Scenary - like those eye measuring hardwares, it's a handheld (no battery) device that is used to relax one's eyes: allowing one to watch long distance without having a window or going outside. Like looking into a VR headset. Maybe this is patentable? (Remark) Kickstartable.
 
 ## Non-Centralized Applications
 
@@ -128,6 +129,7 @@ Personal because it's personal and only I can do it.
 ## Social Media
 
 * (2023) On the problem of mating: [Github](https://github.com/SeekingMate)
+* (2024) Boardy inspired: Social Professional. Somehow having an AI agent make people feel trustworthy - but the biggest selling point must be the phone call and speech-to-speech mechanism. We could have an app just like Boardy but just send something (audio) and gather data and pick matches using AI as mediator. Somehow people just seem to trust AI or algorithm for matching? Can we open source the algorithm and monetize the model? Or traffic jam just call and connect people on the air? No need for other kind of matchmaking. What's even better: we could build it as an open platform for whatever kind of match making people want (likely using Zora) graphs.
 
 ## Theme Park
 
