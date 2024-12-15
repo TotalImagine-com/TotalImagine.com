@@ -61,6 +61,7 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) Fast and cheap e-ink display: No need to have color, just be fast first. On the other hand, software support is also super imporpotant - like ReMarkable 2, for paper display, touch-centric, or pure-keyboard navigation rather than mouse-based navigation is the key.
 * (2024) E-zink Smart phone: Real, not toy functional. I needs to be smart because i want to use  telegram  on it. Protects eyes. Essential for suoer long term technical screen users like me. There are some chinese companies (DaSung and Boox) making those but their products are "functional" and don't last more than a year.
 * (2024) Desktop Scenary - like those eye measuring hardwares, it's a handheld (no battery) device that is used to relax one's eyes: allowing one to watch long distance without having a window or going outside. Like looking into a VR headset. Maybe this is patentable? (Remark) Kickstartable.
+* (2024) 恒温站水舱 - problematic with knees with standing tables? We could stand in water. (idea from) Harry.
 
 ## Non-Centralized Applications
 
