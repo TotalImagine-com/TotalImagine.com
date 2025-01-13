@@ -24,12 +24,10 @@ img {
 
 *(About the quote: It's a DCG clause from the book "Prolog Programming for Artificial Intelligence" 4th Edition by Ivan Bratko - in section 23.3 "Defining the meaning of natural language": "The logical meaning of the tiny determiner 'a' may seem surprisingly complicated". Well, it only makes sense!)*
 
-Welcome! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>  
-Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
+Welcome to my personal website! <a href="https://github.com/TotalImagine-com/TotalImagine.com"><i class="fa-brands fa-github"></i> </a>  
 
-(Been busy these days, will update the website soon!)
-
-Used to work on a variety of personal projects (mostly software), nowadays I focus on my full-time job as Investment Analyst at OTPP, plus a secret side-project!😉
+I am a software enthusiast (and a professional). Proudly worked at Blackbird Interactive and Ontario Teachers' Pension Plan. Nowadays working for my own tech startup Methodox Technologies, Inc.  
+I have a long-time secret project that I am still working on😉.
 
 If you are talented or resourceful and looking for inspiration, consult my <a href="Articles/Entrepreneurship">business ideas</a>.
 
@@ -245,6 +243,8 @@ Procedural Generation:
 
 🌌Portal - Organization 9: <a href="http://reports.org9.totalimagine.com/">Reports</a>
 
+🏢Company: <a href="https://methodox.io/">Methodox Technologies, Inc.</a>
+
 ## Changelog📑
 
 * 2018: Historical website at [Wayback Machine](https://web.archive.org/web/20180817180122/https://totalimagine.com/).
@@ -259,4 +259,6 @@ Procedural Generation:
 * 20230823: (Organization) Add section on "Favorite Articles"
 * 20231013: (Feature, Interaction) [Integrate Giscus](https://github.com/TotalImagine-com/TotalImagine.com/commit/f5f2eb8c16ff8feeb11965c4dc0b80b65937c461). (Remark) Will stop updating this for trivialities. Viewers are welcome to read [commit history](https://github.com/TotalImagine-com/TotalImagine.com/commits/main) for more details.
 
-Copyright © 2018-2023 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
+Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
+
+Copyright © 2018-2025 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
