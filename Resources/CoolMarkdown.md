@@ -316,6 +316,7 @@ quadrantChart
 ## References
 * [Github Flavour Markdown](https://gist.github.com/stevenyap/7038119)
 * [Full Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Methodox's Intro to GitHub Flavoured Markdown](https://wiki.methodox.io/en/KnowledgeBase/Markdown)
 
 <!-- Render Elements -->
 <div class="snowflakes" aria-hidden="true">
