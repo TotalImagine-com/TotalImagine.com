@@ -53,6 +53,10 @@ Some ideas are big and requires people to manage and maintain.
 * (2022, 2024) That location based game. Group gathering use withbKong etc. Pending plot, design. Technology is major hurdle.
 * (2018, 2024) (AVR) VR Japanese: Learn language by walking around and pointing!
 
+## Retail
+
+* (20250118) 乐高Bar：进来随便拼；按斤称带走或者普通材料无限然后充值特殊材料低价单买刷卡。
+
 ## Hardware
 
 * (2023, Hardware, 2024) Recorder with basic editing and on-demand usage functionalities: One will be surprised how barren this market (in terms of supply?) is, and existing mobile apps just doesn't justify the needs. A proper recorder should be able to: 1) Run on demand, 2) Allow insertion, 3) Allow deletion. And ideally those are achieved with physical buttons. I don't see the need for wifi support, but being able to write directly to SD cards is a must. (For note taking, novel recording) Make those hardware recorders to solve the missing functionalities: editing, cutting, trimming, replacing/inserting. 录音方块。
@@ -62,6 +66,7 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) E-zink Smart phone: Real, not toy functional. I needs to be smart because i want to use  telegram  on it. Protects eyes. Essential for suoer long term technical screen users like me. There are some chinese companies (DaSung and Boox) making those but their products are "functional" and don't last more than a year.
 * (2024) Desktop Scenary - like those eye measuring hardwares, it's a handheld (no battery) device that is used to relax one's eyes: allowing one to watch long distance without having a window or going outside. Like looking into a VR headset. Maybe this is patentable? (Remark) Kickstartable.
 * (2024) 恒温站水舱 - problematic with knees with standing tables? We could stand in water. (idea from) Harry.
+* (2025) 捡球机器人 (for tennis)
 
 ## Non-Centralized Applications
 
@@ -86,6 +91,7 @@ Some ideas are big and requires people to manage and maintain.
 * (慈善事业, #2024) Open Source Awards: Director Personal Pick & Community Pick. Only to non-organizational/foundational open source projects. Including categories as: Games, Software, Mobile App, Others, etc. (Idea from) BAR is so good it deserves an award.
 * (实业, 实体经济) No-Retarded Real Estate Development: Develop a community housing area that is pretty and actually looks like some place people would want to live in. (Idea from) Modern Toronto suburbs are urban crawling that looks like shit and put too much division between people and have zero design and zero sense of community. Start with a central square, some stream of water, some markets, shareable farming lands. Make a 1 million dollar house actually worth 1 million - and not in terms of how large the building is.
 * (#20240514) 新型电动车和充电模式：（参考国产品牌“未来”）电车直接换电池。中国有未来这个品牌。电池也不用买断，可以月租。
+* (#20250122, #Dream Inspired) Resort University: Whole swimming pool with lecturers.
 
 ## Personal Business Enamours
 
