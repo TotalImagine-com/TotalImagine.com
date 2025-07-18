@@ -112,7 +112,7 @@ Some things are yet to get more serious!😠
 * [(2020) Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf)
 * [(2022) Emily & James](./Articles/EmilyAndJames)
 
-Misc.:
+**Misc.:**
 
 * [Entrepreneurship](./Articles/Entrepreneurship)
 * [KnowledgeMarkdown](./Articles/KnowledgeMarkdown)
@@ -130,6 +130,7 @@ Blogs (随想) are like vlogs or weChat moments - it's momental, it's 随想, it
 ### Books
 
 * [(2016) Think & Miss (Chinese) - Book 1](https://files.totalimagine.com/PDF/ThinkAndMiss_Book1.pdf) (Probably needs a better context, e.g. as an introduction article/page)
+* [(2025) Introductory Visual Programming in Divooka - A Hands-On Guide to Building Visual Applications](https://methodox-technologies.github.io/TextbookIntroductoryVisualProgramming/)
 
 ### Concepts
 

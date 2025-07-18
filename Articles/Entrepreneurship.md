@@ -66,7 +66,7 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) E-zink Smart phone: Real, not toy functional. I needs to be smart because i want to use  telegram  on it. Protects eyes. Essential for suoer long term technical screen users like me. There are some chinese companies (DaSung and Boox) making those but their products are "functional" and don't last more than a year.
 * (2024) Desktop Scenary - like those eye measuring hardwares, it's a handheld (no battery) device that is used to relax one's eyes: allowing one to watch long distance without having a window or going outside. Like looking into a VR headset. Maybe this is patentable? (Remark) Kickstartable.
 * (2024) 恒温站水舱 - problematic with knees with standing tables? We could stand in water. (idea from) Harry.
-* (2025) 捡球机器人 (for tennis)
+* (2025) 捡球机器人 (for tennis): 类似扫地机器人的捡球机器人。
 
 ## Non-Centralized Applications
 
