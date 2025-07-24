@@ -263,6 +263,7 @@ Procedural Generation:
 * 20230801: (Appearance) Update front page; Clean up and visual formatting.
 * 20230823: (Organization) Add section on "Favorite Articles"
 * 20231013: (Feature, Interaction) [Integrate Giscus](https://github.com/TotalImagine-com/TotalImagine.com/commit/f5f2eb8c16ff8feeb11965c4dc0b80b65937c461). (Remark) Will stop updating this for trivialities. Viewers are welcome to read [commit history](https://github.com/TotalImagine-com/TotalImagine.com/commits/main) for more details.
+* 2025072413: (Front Page) Fix broken links.
 
 Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
