@@ -75,7 +75,7 @@ Some ideas are big and requires people to manage and maintain.
 
 ## Industries
 
-* (2022, 2024) Technical Analyst: There is frequent need for highly technical computing yet very high-level analytics at finance/investment industry. Excel and Python are usually the first choice. I intend to create a completely new role with [Parcel](https://github.com/Charles-Zhang-Parcel). One implementation of this is when I have my own investment firm, I can hire people developing Parcel, and hire people specializing in using it, and we sell/market Parcel ourselves.
+* (2022, 2024) Technical Analyst: There is frequent need for highly technical computing yet very high-level analytics at finance/investment industry. Excel and Python are usually the first choice. I intend to create a completely new role with [Parcel](https://github.com/orgs/MethodoxParcel/repositories). One implementation of this is when I have my own investment firm, I can hire people developing Parcel, and hire people specializing in using it, and we sell/market Parcel ourselves.
 
 ## Online Services
 
@@ -116,7 +116,7 @@ Personal because it's personal and only I can do it.
 
 ## Software
 
-* (2019, 2022) Spreadsheet: Object-oriented, functional programmable spreadsheet application. Partly implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) - but we actually want a GUI interface that's much just like Excel<!--What about programmability?-->. The core problem we try to solve is to enable named variables and named table ranges and enforce strongly-typed and safe references. For GUI framework, we should clearly use Qt for efficiency and cross-platform portability.
+* (2019, 2022) Spreadsheet: Object-oriented, functional programmable spreadsheet application. Partly implemented in [Parcel](https://github.com/orgs/MethodoxParcel/repositories) - but we actually want a GUI interface that's much just like Excel<!--What about programmability?-->. The core problem we try to solve is to enable named variables and named table ranges and enforce strongly-typed and safe references. For GUI framework, we should clearly use Qt for efficiency and cross-platform portability.
 * (2019/2018, 2024) Social Media (Gravity, downgraded): Community Building on GIS scale - Map chat. (idea from) Waze Map has those interesting icons - that reminds me of the fun of such a map based social media platform. People can join channels and decide when where for how long they post information. The platform is just a map. It's like Twitter but with an (arbitrary, not necessarily GPS located) pin.
 
 ## Software/VR/Content
@@ -131,7 +131,7 @@ Personal because it's personal and only I can do it.
 
 ## Solution
 
-* (2022) (Business Automation) Needs a visual-driven node-based process automation framework. Kind of [WWF](https://learn.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/). Partially implemented in [Parcel](https://github.com/Charles-Zhang-Parcel) and https://charles-zhang.itch.io/expressoExpresso, also as a core concept in [dbt](https://github.com/dbt-labs/dbt-core). Pending a dedicated article on this concept. Alternative workflow uses Python/Jupyter Notebook, or [Pure](https://github.com/Pure-The-Language).
+* (2022) (Business Automation) Needs a visual-driven node-based process automation framework. Kind of [WWF](https://learn.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/). Partially implemented in [Parcel](https://github.com/orgs/MethodoxParcel/repositories) and https://charles-zhang.itch.io/expressoExpresso, also as a core concept in [dbt](https://github.com/dbt-labs/dbt-core). Pending a dedicated article on this concept. Alternative workflow uses Python/Jupyter Notebook, or [Pure](https://github.com/Pure-The-Language).
 * (2022) (Business Analytics) Needs a better programmable business analytics platform, ideally incorporating dbt like processing workflow and as one-stop ETL/ELT solution, as an alternative to [Grafana](https://grafana.com/). PowerBI generally is the best but there are lots of issue with its programmability, lack of open-source nature, and very troublesome GUI (too many clicks).
 
 ## Social Media

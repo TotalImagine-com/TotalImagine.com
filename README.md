@@ -43,15 +43,15 @@ If you are talented or resourceful and looking for inspiration, consult my <a hr
 
 ## Main Projects🌉
 
-There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, [MULTITUDE](https://github.com/chaojian-zhang/MULTITUDE), [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), [Parcel](https://github.com/Charles-Zhang-Parcel), and [Formless](https://chaojian-zhang.github.io/FormlessProgramming/). Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel and [Pure](https://github.com/Pure-The-Language) replaced Formless.
+There are a few things that I've always wanted to work on but never had a chance to fully materialize: Airi, [MULTITUDE](https://github.com/chaojian-zhang/MULTITUDE), [Deep Dive](https://youtu.be/Rd8E-iSiLZ0), [Parcel](https://github.com/orgs/MethodoxParcel/repositories) (now known as [Divooka](https://methodox.itch.io/)), and [Formless](https://chaojian-zhang.github.io/FormlessProgramming/). Thankfully, OpenAI invented ChatGPT, I discovered [Markdown-based workflow](https://files.totalimagine.com/PDF/KnowledgeMarkdownWorkflow-Presentation_No.1_Rev.0.5.pdf), [Expresso](https://charles-zhang.itch.io/expresso) replaced Parcel (again, replaced by [Divooka](https://methodox.itch.io/)) and [Pure](https://github.com/Pure-The-Language) replaced Formless.
 
 &emsp;>> <a href="WIP">WIP</a>: Highlights of "Work-in-progress" <br/>
 &emsp;>> <a href="Articles/Matrix">Codename: The Matrix</a>: Galactical scale entity simulation and render engine <br/>
-&emsp;>> <a href="https://github.com/Pure-The-Language">Pure</a>: A C# based scripting environment <br/>
+&emsp;>> <a href="https://github.com/Pure-The-Language">Pure</a>: A C# based scripting environment; <a href="https://methodox.itch.io/pure-2">Pure 2</a>: Latest version of Pure in the Divooka ecosystem <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/NodeEditor/">(Archived) Node Editor</a>: 3D first-person walkable node editing environment <br/>
 &emsp;>> <a href="https://github.com/chaojian-zhang/MULTITUDE/">(Archived) SIS MULTITUDE</a>: Experimental windows desktop environment (WPF) and with inspirational agency <br/>
 &emsp;>> <a href="https://somewhere.totalimagine.com/">(Archived) Somewhere</a>: Tag-based desktop file/content/note management file system <br/>
-&emsp;>> <a href="https://github.com/Charles-Zhang-Parcel">(Archived) Parcel</a>: Node-based process automation environment
+&emsp;>> <a href="https://github.com/orgs/MethodoxParcel/repositories">(Archived) Parcel</a>: Node-based process automation environment
 
 ### Project Ideas (Invite for Collaboration)
 
@@ -62,7 +62,7 @@ For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">b
 ***Software***
 
 * Pure The Language (Work-in-Progress): [Github](https://github.com/Pure-The-Language)
-* Parcel The Workflow Engine (Halted): [Github](https://github.com/Charles-Zhang-Parcel)
+* Parcel The Workflow Engine (Halted): [Github](https://github.com/orgs/MethodoxParcel/repositories); Replaced by [Divooka](https://methodox.itch.io/)
 * Formless The Language (Deprecated): [Github](https://github.com/chaojian-zhang/FormlessProgramming)
 * Somewhere/Somewhere 2 (Deprecated): [Website](https://somewhere.totalimagine.com/)
 
@@ -153,13 +153,15 @@ We do not use an existing well-known platform like Douban because we want full p
 
 * [Romance](https://www.bilibili.com/video/BV15W411E7mY/)
 
-### Parcel
+### Parcel (now known as Divooka)
 
 Tags: Software, Workflow, Business Automation, Data Analytics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEHaf_4y5AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Link: <a href="https://github.com/Charles-Zhang-Parcel"><i class="fa-brands fa-github"></i> Github</a>
+Link: <a href="https://github.com/orgs/MethodoxParcel/repositories"><i class="fa-brands fa-github"></i> Github</a>
+
+Link: <a href="https://methodox.itch.io/"><i class="fa-brands fa-itch-io"></i> Divooka</a>
 
 ### Games
 
@@ -209,10 +211,10 @@ Functional and specialized.
 
 Don't forget to add to PATH😉!
 
-* [Pure](https://github.com/pure-the-Language/pure)
-* [Launcher](https://github.com/chaojian-zhang/Launcher)
-* [Calculator](https://github.com/chaojian-zhang/Calculator)
-* Parcel: PENDING
+* [Pure 2](https://methodox.itch.io/pure-2): C# scripting
+* [Launcher](https://github.com/chaojian-zhang/Launcher): Application launcher
+* [Calculator](https://github.com/chaojian-zhang/Calculator): One shot calculator
+* [Divooka](https://methodox.itch.io/): Modern general purpose high level visual programming language
 
 ### Favorite Articles
 
