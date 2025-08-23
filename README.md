@@ -263,7 +263,8 @@ Procedural Generation:
 * 20230801: (Appearance) Update front page; Clean up and visual formatting.
 * 20230823: (Organization) Add section on "Favorite Articles"
 * 20231013: (Feature, Interaction) [Integrate Giscus](https://github.com/TotalImagine-com/TotalImagine.com/commit/f5f2eb8c16ff8feeb11965c4dc0b80b65937c461). (Remark) Will stop updating this for trivialities. Viewers are welcome to read [commit history](https://github.com/TotalImagine-com/TotalImagine.com/commits/main) for more details.
-* 2025072413: (Front Page) Fix broken links.
+* 20250724: (Front Page) Fix broken links.
+* 20250823: (Front Page) Integrate [Methodox Chat Gateway](https://chat-gateway.methodox.io/) AI chatbot.
 
 Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
@@ -271,6 +272,7 @@ Copyright © 2018-2025 <img height="32" src="https://avatars.githubusercontent.c
 
 <script src="https://chat-gateway.methodox.io/widget/chat-widget.js"
   data-chat-widget
+  data-api-base="https://chat-gateway.methodox.io"
   data-project="CharlesZhang"
   data-title="Chat with AI"
   data-display-name="Chat Gateway"
