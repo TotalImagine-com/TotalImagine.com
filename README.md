@@ -268,3 +268,13 @@ Procedural Generation:
 Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
 Copyright © 2018-2025 <img height="32" src="https://avatars.githubusercontent.com/u/104454300?s=400&u=ea3160153c1576ba9292398a40911180e754c698&v=4" style="vertical-align:middle"/> Charles Zhang All rights reserved. 
+
+<script src="https://chat-gateway.methodox.io/widget/chat-widget.js"
+  data-chat-widget
+  data-project="CharlesZhang"
+  data-title="Chat with AI"
+  data-display-name="Chat Gateway"
+  data-welcome-message="Hi! I'm Charles' AI assistant. What do you want to talk about?"
+  data-position="right"
+  data-open="false"
+  data-primary="#2563eb"></script>
