@@ -68,6 +68,15 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) 恒温站水舱 - problematic with knees with standing tables? We could stand in water. (idea from) Harry.
 * (2025) 捡球机器人 (for tennis): 类似扫地机器人的捡球机器人。
 
+## Mobile Apps
+
+* (2024, Development) Android doesn't have a functional Git/Github tool that can check out/clone things on Android (e.g. for Godot projects).
+* (2025) Mediator app. Listens and when prompted, try to help identify the crux of the argument/discussion and help point discussion direction.
+
+## Machine Learning Models
+
+* (2025) Train a model to generate sound effects for videos; Useful for things like quickly adding interests to otherwise silent videos, or directly adding background SFX to short films. As an extension, we can also let the model generate orchestrated BGM. Notice Veo from Google can generate video + audio, but we really just want to add audio to existing video.
+
 ## Non-Centralized Applications
 
 * Ethereum Lottery: Decentralized blockchain-based lottery. Real-world lotteries are not trustworthy. Programmed in [Solidity](https://github.com/ethereum/solidity), participants are guaranteed a transparent process. No one is there to take our winning money as tax. Idea courtesy of Shawn Li. Allow multiple pools of varying sizes so people can adjust their winning rates and even start new pools. A more interesting effect is tax-free.
@@ -124,10 +133,6 @@ Personal because it's personal and only I can do it.
 * (2016, 2024) Full VR (Only) Modler and Layout Engine (Like Minecraft, or Godot, unlike Blender or anything else): first person walkable exepriecen. This is VERY technicallt challenging orneven impossiblenwith current technology/rendering efficiency.
 * (2024) VR Taichi/Dance: One dance/series per game. Full room scale with a single enviroment. Character model required (for in-game) matching.  Background just half-modeled environment (like Oculus Meta room), single character. Maybe offer playback options. Room size factor: 3x3m/5x5m. Single no annotation/speaking playvack, voice annotation, text annotation, etc.
 * (2024) Programming tutorialz but fully recorded in VR.
-
-## Mobile Apps
-
-* (2024, Development) Android doesn't have a functional Git/Github tool that can check out/clone things on Android (e.g. for Godot projects).
 
 ## Solution
 
