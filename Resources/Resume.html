@@ -13,14 +13,14 @@
     --accent:#1f4f8f;
     --bg:#fff;
     --heading: 11.5pt;
-    --body: 9.5pt;
+    --body: 10pt;
     --small: 9pt;
   }
 
   /* ---------- Page & Print ---------- */
   @page {
     size: letter;                 /* 8.5in x 11in */
-    margin: 0.5in;                /* compact but breathable */
+    margin: 0.6in;                /* compact but breathable */
   }
   @media print {
     html,body { background: var(--bg); }
@@ -60,7 +60,7 @@
     display: grid;
     grid-template-columns: 2.5in 1fr;    /* compact left rail + flexible main */
     gap: 20px;
-    padding: 0.5in;                      /* matches @page margin visually on screen */
+    padding: 0.6in;                      /* matches @page margin visually on screen */
   }
   @media (max-width: 900px){
     .content { grid-template-columns: 1fr; padding: 24px; }
