@@ -245,6 +245,7 @@ Procedural Generation:
 * <a href="https://youtube.com/@ChaojianZhang"><i class="fa-brands fa-youtube"></i> YouTube (Personal)</a>: Tech talks, game videos, random projects. <br/>
 * <a href="https://www.youtube.com/@emily_james"><i class="fa-brands fa-youtube"></i> Emily & James</a>: 💕. <br/>
 * <a href="https://charles-zhang.itch.io/"> Itch.io</a>: Provides downloads of functional programs.
+* <a href="./Resources/Resume.html"> Resume</a>: Professional resume.
 
 🌌Portal - Organization 9: <a href="http://reports.org9.totalimagine.com/">Reports</a>
 
@@ -265,6 +266,7 @@ Procedural Generation:
 * 20231013: (Feature, Interaction) [Integrate Giscus](https://github.com/TotalImagine-com/TotalImagine.com/commit/f5f2eb8c16ff8feeb11965c4dc0b80b65937c461). (Remark) Will stop updating this for trivialities. Viewers are welcome to read [commit history](https://github.com/TotalImagine-com/TotalImagine.com/commits/main) for more details.
 * 20250724: (Front Page) Fix broken links.
 * 20250823: (Front Page) Integrate [Methodox Chat Gateway](https://chat-gateway.methodox.io/) AI chatbot.
+* 20250926: (Front Page) Add link to [Professional Resume](./Resources/Resume.html).
 
 Discuss this website [here](https://github.com/TotalImagine-com/TotalImagine.com/discussions).
 
