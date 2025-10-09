@@ -72,7 +72,7 @@ For entrepreneurship level endeavours, see <a href="Articles/Entrepreneurship">b
 
 ***Hardware/Software/Program***
 
-* (Idea) Motion-tracked 3D environment - looking through a screen. It's like VR but NOT VR and I assert the feeling is even more amazing. Pending dedicated write-up on my plan using OAK-D-Lite. Can be developed into a machine-learning (computer graphics) project.
+* (Idea) Motion-tracked 3D environment - looking through a screen. It's like VR but NOT VR and I assert the feeling is even more amazing. Pending dedicated write-up on my plan using OAK-D-Lite. Can be developed into a machine-learning (computer graphics) project. Now implement in [PortalGraph](https://portalgraph.itch.io/portalgraph-free-demos) for ordinary display screen form factors, [site](https://www.portalgraph.com/en), [news](https://thedebrief.org/holographic-tv-is-here-award-winning-portalgraph-instantly-turns-any-screen-into-a-3d-vr-display/) - It works with ordinary camera. <!--A conceptualization see Redream 20220527 八方晒书-->
 
 **Utility Programs**
 
