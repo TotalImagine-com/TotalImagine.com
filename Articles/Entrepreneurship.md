@@ -144,6 +144,7 @@ Personal because it's personal and only I can do it.
 
 * (2023) On the problem of mating: [Github](https://github.com/SeekingMate)
 * (2024) Boardy inspired: Social Professional. Somehow having an AI agent make people feel trustworthy - but the biggest selling point must be the phone call and speech-to-speech mechanism. We could have an app just like Boardy but just send something (audio) and gather data and pick matches using AI as mediator. Somehow people just seem to trust AI or algorithm for matching? Can we open source the algorithm and monetize the model? Or traffic jam just call and connect people on the air? No need for other kind of matchmaking. What's even better: we could build it as an open platform for whatever kind of match making people want (likely using Zora) graphs.
+* (2025) YouTube 24hr Live (Digital) Cat Show: audience can interact with it. Like a virtual desktop.
 
 ## Theme Park
 
