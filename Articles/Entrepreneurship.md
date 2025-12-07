@@ -16,6 +16,10 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) Methodox: Unconventional business solutions. (E.g. Parcel)
 * (2024) Imagine Nation: Unique businesses. (E.g. iAvatar)
 
+## Industrial
+
+* (2025) Autonomous truck for 24hr goods transportation: Like CyberTruck, but less hype and for real. One challenge (besides the vehicle itself) is e-charging infrastructure - might be easier to implement in China due to its open innovative policy if one have good connections.
+
 ## Entertainment
 
 * (2021) (YouTube series) Fake Gameplay videos and visions: kinda like those 2D game and sometimes 3D game ads we see - but instead of ads, it's just good visions. An unfinished example is World of Legends. Fun to do when we are not on schedule for Project Nine.
