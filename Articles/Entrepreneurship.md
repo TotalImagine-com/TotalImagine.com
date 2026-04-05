@@ -56,6 +56,16 @@ Some ideas are big and requires people to manage and maintain.
 * (2022, 2024) Gamed-based language learning: walking-experience-like and detailed 3D environments.
 * (2022, 2024) That location based game. Group gathering use withbKong etc. Pending plot, design. Technology is major hurdle.
 * (2018, 2024) (AVR) VR Japanese: Learn language by walking around and pointing!
+* (2025) Homeless: Hyper realistic graphics with weather effect of a homeless dog. Maybe instead of open ended, we have a story. This is like the next level "The Walking Simulator". Unrecorded 20251215 dream inspired; Think Unreal Engine The Matrix demo but with a poor white dog (like the one from Rick and Morty), just walking around, trying to find food and sometimes chased by humans to be chasen away, maybe there are individuals that always helps. It looks like a dog sim, but more of a human NPC sim.
+* (2025) Crime Scene (侦查现场/犯罪现场/侦探现场): Almost like walking simulator, with a focus on specific scenes, maybe with events, story, and animation. Not focused on gore or bloody effects at all. Consider it like solving a puzzle like those Conan episodes. Full 3D with detailed scenery. Actually hard to make well despite short gameplay.
+* (2026) Desktop Plant: Like desktop mate pets, but plants. Just water it every day. The game is easy to program but requires interesting graphics.
+* (2026) (Game) AI变装低龄女孩游戏，注意这个跟AI试装不一样。试装是不太靠谱的，因为尺寸、版型经过AI图片编辑都无法准确。还是需要传统的3D模拟更准确。
+* (2026) 养小孩游戏, like, real simualtro. Play for 18 years.
+
+## Crypto
+
+* (2023) Crypto lottery
+* (2025) Crypto "History": Pay to set a post with title and body. All with limited length. Pay to tag existing posts. Used for establishing historical records that's unchangeable for historians. (Idea from) Jan 6 and Jan 7 events of United States.
 
 ## Retail
 
@@ -99,6 +109,8 @@ Some ideas are big and requires people to manage and maintain.
 * (2024) Ultimate Plan: Hotels (pricing and location), airports, and tourist attractions, all on the map. Plus actual routes for the actual travel. (Can be part of Gravity network) (idea from) Planning traveling with Google Map, Google Earth, Booking, Expedia is VERY inconvenient.
 * (2024, Mobile App) Home office: Suburb home are empty most of the daytime - we can rent it to those who need a daytime office and enjoys walk-in office (e.g. no need for hardware setup e.g. fixed computer workstations). Just like modern office, but walk-in. When done well can also apply to condos - walk-in office during day time hours.
 * (2025, game, marketplace) Anyboard - Bring Your Own Game: A board game platform where people can gather and test their own board games. It provides a lobby, and connected game play sessions for people around the world. The general principle is as 2D board game we just need to control visibility to specific players and otherwise just leave everything "manual" - picking a card etc. to reduce programming burden. The motivation was to allow a way to quickly test Kaza with friends online. To elaborate, from game dev framework perspective, we can provide preset elements that is available in all games: card draw deck, desert card area, exclusively pick-able object (like a dice), cards with two sides (visibility control), etc. that allows quick configuration with some art assets and is immediately drop-and-play.
+* (2026, Platform, free) Share real knowledge/advice/insight. A think tank for ordinary people. Once in a while we have big questions in our life that we don't know who to turn to or don't have the resource to ask. Anonymous asking questions with optional donation (to the platform), all answers are not paid and show author who are authorized people. Each question goes through this process: Initial Question, Follow-up Information Gathering, Initial Categorization, Sending for Replies, Answer(s), Finish. No follow up question; Answers accepts comments and may be edited by original author. Each question is limited 1000 words and reply limited to 1000 words. Those are more opinionated and less clear cut categories: politics, economy, relationship, medical. The system may directly ask more information, suggest googling, asking AI, provide straightforward answers, or pick appropriate experts on the subject. (Idea from) Need a nerd is good, but it's too small scare and not transparent.
+* (2026, Utility) AI找机票，但这不是个AI问题，更多是算法问题和API问题，就跟找股票一样.
 
 ## Others
 
@@ -164,6 +176,15 @@ Personal because it's personal and only I can do it.
 * Studying Unreal Engine Source Code: Just official documentation and official source code, digging through walkthrough - something I wanted existed when learning for myself.
 * World Build for Project Nine: Talk about specific aspects from technical, theoratical and how-to-with-tools perspectives. Sharing and consolidation of knowledge.
 * Studying PyTorch Source Code: Always wanted to write deep learning, also review math.
+
+## 副业
+
+Activities that generates cash flow.
+
+* 二手市场：高净值
+* KTV in Toronto: self serve, order take out allowed
+* Indoor golf simulator 
+* 搬家家具不要钱随便拿放到仓库然后二手一件件卖掉
 
 ## Dated
 
